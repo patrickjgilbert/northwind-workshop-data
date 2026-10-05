@@ -1,0 +1,130 @@
+invoice_no,date,customer,service_line,description,amount,status
+INV-2005,2026-07-31,Eastern Promenade Condominium Association,Commercial cleaning,Weekly service - July 2026 (4 visits),69940.00,Paid
+INV-2006,2026-07-31,Eastern Promenade Condominium Association,Handyman,Handyman services - July 2026 (1 job),520.00,Paid
+INV-2007,2026-07-31,Stroudwater Commons Condominium Trust,Commercial cleaning,Weekly service - July 2026 (4 visits),19600.00,Paid
+INV-2008,2026-07-31,Stroudwater Commons Condominium Trust,Handyman,Handyman services - July 2026 (2 jobs),835.00,Paid
+INV-2009,2026-07-31,Westbrook Crossing Professional Park,Commercial cleaning,Weekly service - July 2026 (4 visits),27600.00,Paid
+INV-2010,2026-07-31,Bramhall Square Offices,Commercial cleaning,Weekly service - July 2026 (4 visits),17200.00,Paid
+INV-2011,2026-07-31,Baxter Woods Condominium Association,Commercial cleaning,Weekly service - July 2026 (5 visits),19000.00,Paid
+INV-2012,2026-07-31,Marginal Way Medical Suites,Commercial cleaning,Weekly service - July 2026 (4 visits),12400.00,Paid
+INV-2013,2026-07-31,Brackett Street Lofts Owners Association,Commercial cleaning,Weekly service - July 2026 (5 visits),13500.00,Paid
+INV-2014,2026-07-31,Tidal Flats Coworking,Commercial cleaning,Weekly service - July 2026 (5 visits),12000.00,Paid
+INV-2015,2026-07-31,Tidal Flats Coworking,Handyman,Handyman services - July 2026 (1 job),610.00,Paid
+INV-2016,2026-07-31,Ocean Avenue Pediatrics,Commercial cleaning,Weekly service - July 2026 (5 visits),4450.00,Paid
+INV-2017,2026-07-31,The Wharf House Restaurant,Commercial cleaning,Weekly service - July 2026 (4 visits),2880.00,Paid
+INV-2018,2026-07-31,Fore Street Bistro,Commercial cleaning,Weekly service - July 2026 (4 visits),2560.00,Paid
+INV-2019,2026-07-31,Deering Oaks Dental Arts,Commercial cleaning,Weekly service - July 2026 (5 visits),2400.00,Paid
+INV-2020,2026-07-31,Back Cove Bakery,Commercial cleaning,Weekly service - July 2026 (5 visits),2100.00,Paid
+INV-2021,2026-07-31,Old Port Dental,Commercial cleaning,Monthly service - July 2026 (2 evening visits),640.00,Paid
+INV-2022,2026-07-31,Harborview Orthodontics,Commercial cleaning,Monthly service - July 2026 (2 evening visits),1150.00,Paid
+INV-2023,2026-07-31,Spring Street Studios,Commercial cleaning,Monthly service - July 2026 (2 evening visits),560.00,Paid
+INV-2024,2026-07-31,Riverton Family Chiropractic,Commercial cleaning,Monthly service - July 2026 (2 evening visits),480.00,Paid
+INV-2025,2026-07-31,Casco Coast Property Management,Commercial cleaning,Rental turnovers - July 2026 (15 units),4965.00,Paid
+INV-2026,2026-07-31,Longfellow Street Rentals,Commercial cleaning,Rental turnovers - July 2026 (9 units),2685.00,Paid
+INV-2027,2026-07-31,Peaks Island Rentals,Commercial cleaning,Rental turnovers - July 2026 (11 units),3755.00,Paid
+INV-2028,2026-07-31,Priya Natarajan,Residential cleaning,Monthly cleaning statement - July 2026 (5 visits),1300.00,Paid
+INV-2029,2026-07-31,Caleb Thibodeau,Residential cleaning,Monthly cleaning statement - July 2026 (2 visits),480.00,Paid
+INV-2030,2026-07-31,Marguerite Okafor,Handyman,Handyman services - July 2026 (1 job),450.00,Paid
+INV-2031,2026-07-31,Marguerite Okafor,Residential cleaning,Monthly cleaning statement - July 2026 (4 visits),1200.00,Paid
+INV-2032,2026-07-31,Ruth Hendricks,Residential cleaning,Monthly cleaning statement - July 2026 (2 visits),640.00,Paid
+INV-2033,2026-07-31,Owen Castellano,Residential cleaning,Monthly cleaning statement - July 2026 (3 visits),660.00,Paid
+INV-2034,2026-07-31,Beatrix Lindqvist,Handyman,Handyman services - July 2026 (1 job),640.00,Paid
+INV-2035,2026-07-31,Beatrix Lindqvist,Residential cleaning,Monthly cleaning statement - July 2026 (5 visits),1700.00,Paid
+INV-2036,2026-07-31,Samuel Agyemang,Handyman,Handyman services - July 2026 (2 jobs),980.00,Paid
+INV-2037,2026-07-31,Samuel Agyemang,Residential cleaning,Monthly cleaning statement - July 2026 (3 visits),750.00,Paid
+INV-2038,2026-07-31,Noor Haddad,Handyman,Handyman services - July 2026 (3 jobs),1325.00,Paid
+INV-2039,2026-07-31,Noor Haddad,Residential cleaning,Monthly cleaning statement - July 2026 (2 visits),560.00,Paid
+INV-2040,2026-07-31,Theo Bergstrom,Handyman,Handyman services - July 2026 (2 jobs),1105.00,Paid
+INV-2041,2026-07-31,Theo Bergstrom,Residential cleaning,Monthly cleaning statement - July 2026 (4 visits),1100.00,Paid
+INV-2042,2026-07-31,Imani Washington-Reyes,Handyman,Handyman services - July 2026 (1 job),560.00,Paid
+INV-2043,2026-07-31,Imani Washington-Reyes,Residential cleaning,Monthly cleaning statement - July 2026 (2 visits),590.00,Paid
+INV-2044,2026-07-31,Walter Pelletier,Handyman,Handyman services - July 2026 (1 job),495.00,Paid
+INV-2045,2026-07-31,Walter Pelletier,Residential cleaning,Monthly cleaning statement - July 2026 (2 visits),460.00,Paid
+INV-2046,2026-07-31,Yuki Tanabe-Morrill,Residential cleaning,Monthly cleaning statement - July 2026 (5 visits),1550.00,Paid
+INV-2047,2026-08-21,Priya Natarajan,Residential cleaning,Re-clean: kitchen and baths (8/21),185.00,Open
+INV-2048,2026-08-31,Eastern Promenade Condominium Association,Commercial cleaning,Weekly service - August 2026 (5 visits),87425.00,Paid
+INV-2049,2026-08-31,Eastern Promenade Condominium Association,Handyman,Handyman services - August 2026 (1 job),610.00,Paid
+INV-2050,2026-08-31,Stroudwater Commons Condominium Trust,Commercial cleaning,Weekly service - August 2026 (5 visits),24500.00,Paid
+INV-2051,2026-08-31,Stroudwater Commons Condominium Trust,Handyman,Handyman services - August 2026 (1 job),520.00,Paid
+INV-2052,2026-08-31,Westbrook Crossing Professional Park,Commercial cleaning,Weekly service - August 2026 (5 visits),34500.00,Paid
+INV-2053,2026-08-31,Bramhall Square Offices,Commercial cleaning,Weekly service - August 2026 (4 visits),17200.00,Paid
+INV-2054,2026-08-31,Baxter Woods Condominium Association,Commercial cleaning,Weekly service - August 2026 (4 visits),15200.00,Paid
+INV-2055,2026-08-31,Marginal Way Medical Suites,Commercial cleaning,Weekly service - August 2026 (4 visits),12400.00,Paid
+INV-2056,2026-08-31,Brackett Street Lofts Owners Association,Commercial cleaning,Weekly service - August 2026 (4 visits),10800.00,Paid
+INV-2057,2026-08-31,Brackett Street Lofts Owners Association,Handyman,Handyman services - August 2026 (1 job),450.00,Paid
+INV-2058,2026-08-31,Tidal Flats Coworking,Commercial cleaning,Weekly service - August 2026 (4 visits),9600.00,Paid
+INV-2059,2026-08-31,Tidal Flats Coworking,Handyman,Handyman services - August 2026 (2 jobs),1055.00,Paid
+INV-2060,2026-08-31,Ocean Avenue Pediatrics,Commercial cleaning,Weekly service - August 2026 (4 visits),3560.00,Paid
+INV-2061,2026-08-31,Pleasant Hill Veterinary,Commercial cleaning,Weekly service - August 2026 (3 visits),2280.00,Paid
+INV-2062,2026-08-31,The Wharf House Restaurant,Commercial cleaning,Weekly service - August 2026 (5 visits),3600.00,Paid
+INV-2063,2026-08-31,Fore Street Bistro,Commercial cleaning,Weekly service - August 2026 (4 visits),2560.00,Overdue
+INV-2064,2026-08-31,Deering Oaks Dental Arts,Commercial cleaning,Weekly service - August 2026 (4 visits),1920.00,Paid
+INV-2065,2026-08-31,Back Cove Bakery,Commercial cleaning,Weekly service - August 2026 (4 visits),1680.00,Paid
+INV-2066,2026-08-31,Old Port Dental,Commercial cleaning,Monthly service - August 2026 (2 evening visits),640.00,Paid
+INV-2067,2026-08-31,Harborview Orthodontics,Commercial cleaning,Monthly service - August 2026 (2 evening visits),1150.00,Paid
+INV-2068,2026-08-31,Spring Street Studios,Commercial cleaning,Monthly service - August 2026 (2 evening visits),560.00,Paid
+INV-2069,2026-08-31,Riverton Family Chiropractic,Commercial cleaning,Monthly service - August 2026 (2 evening visits),480.00,Paid
+INV-2070,2026-08-31,Casco Coast Property Management,Commercial cleaning,Rental turnovers - August 2026 (14 units),4500.00,Paid
+INV-2071,2026-08-31,Longfellow Street Rentals,Commercial cleaning,Rental turnovers - August 2026 (8 units),2535.00,Paid
+INV-2072,2026-08-31,Peaks Island Rentals,Commercial cleaning,Rental turnovers - August 2026 (8 units),2765.00,Paid
+INV-2073,2026-08-31,Priya Natarajan,Handyman,Handyman services - August 2026 (2 jobs),880.00,Paid
+INV-2074,2026-08-31,Priya Natarajan,Residential cleaning,Monthly cleaning statement - August 2026 (4 visits),1040.00,Paid
+INV-2075,2026-08-31,Caleb Thibodeau,Handyman,Handyman services - August 2026 (1 job),420.00,Paid
+INV-2076,2026-08-31,Caleb Thibodeau,Residential cleaning,Monthly cleaning statement - August 2026 (3 visits),720.00,Paid
+INV-2077,2026-08-31,Marguerite Okafor,Residential cleaning,Monthly cleaning statement - August 2026 (5 visits),1500.00,Paid
+INV-2078,2026-08-31,Ruth Hendricks,Residential cleaning,Monthly cleaning statement - August 2026 (2 visits),640.00,Paid
+INV-2079,2026-08-31,Owen Castellano,Residential cleaning,Monthly cleaning statement - August 2026 (2 visits),440.00,Overdue
+INV-2080,2026-08-31,Beatrix Lindqvist,Residential cleaning,Monthly cleaning statement - August 2026 (4 visits),1360.00,Paid
+INV-2081,2026-08-31,Samuel Agyemang,Handyman,Handyman services - August 2026 (1 job),560.00,Paid
+INV-2082,2026-08-31,Samuel Agyemang,Residential cleaning,Monthly cleaning statement - August 2026 (2 visits),500.00,Paid
+INV-2083,2026-08-31,Noor Haddad,Handyman,Handyman services - August 2026 (2 jobs),970.00,Paid
+INV-2084,2026-08-31,Noor Haddad,Residential cleaning,Monthly cleaning statement - August 2026 (2 visits),560.00,Paid
+INV-2085,2026-08-31,Theo Bergstrom,Handyman,Handyman services - August 2026 (1 job),640.00,Paid
+INV-2086,2026-08-31,Theo Bergstrom,Residential cleaning,Monthly cleaning statement - August 2026 (4 visits),1100.00,Paid
+INV-2087,2026-08-31,Imani Washington-Reyes,Residential cleaning,Monthly cleaning statement - August 2026 (3 visits),885.00,Paid
+INV-2088,2026-08-31,Yuki Tanabe-Morrill,Residential cleaning,Monthly cleaning statement - August 2026 (4 visits),1240.00,Paid
+INV-2089,2026-09-30,Eastern Promenade Condominium Association,Commercial cleaning,Weekly service - September 2026 (4 visits),69940.00,Open
+INV-2090,2026-09-30,Eastern Promenade Condominium Association,Handyman,Handyman services - September 2026 (1 job),420.00,Open
+INV-2091,2026-09-30,Stroudwater Commons Condominium Trust,Commercial cleaning,Weekly service - September 2026 (4 visits),19600.00,Open
+INV-2092,2026-09-30,Stroudwater Commons Condominium Trust,Handyman,Handyman services - September 2026 (1 job),495.00,Open
+INV-2093,2026-09-30,Westbrook Crossing Professional Park,Commercial cleaning,Weekly service - September 2026 (4 visits),27600.00,Open
+INV-2094,2026-09-30,Bramhall Square Offices,Commercial cleaning,Weekly service - September 2026 (5 visits),21500.00,Open
+INV-2095,2026-09-30,Baxter Woods Condominium Association,Commercial cleaning,Weekly service - September 2026 (5 visits),19000.00,Open
+INV-2096,2026-09-30,Baxter Woods Condominium Association,Handyman,Handyman services - September 2026 (1 job),610.00,Open
+INV-2097,2026-09-30,Marginal Way Medical Suites,Commercial cleaning,Weekly service - September 2026 (5 visits),15500.00,Open
+INV-2098,2026-09-30,Brackett Street Lofts Owners Association,Commercial cleaning,Weekly service - September 2026 (4 visits),10800.00,Open
+INV-2099,2026-09-30,Brackett Street Lofts Owners Association,Handyman,Handyman services - September 2026 (1 job),560.00,Open
+INV-2100,2026-09-30,Tidal Flats Coworking,Commercial cleaning,Weekly service - September 2026 (4 visits),9600.00,Open
+INV-2101,2026-09-30,Tidal Flats Coworking,Handyman,Handyman services - September 2026 (1 job),450.00,Open
+INV-2102,2026-09-30,Ocean Avenue Pediatrics,Commercial cleaning,Weekly service - September 2026 (5 visits),4450.00,Open
+INV-2103,2026-09-30,Pleasant Hill Veterinary,Commercial cleaning,Weekly service - September 2026 (4 visits),3040.00,Open
+INV-2104,2026-09-30,The Wharf House Restaurant,Commercial cleaning,Weekly service - September 2026 (4 visits),2880.00,Open
+INV-2105,2026-09-30,Fore Street Bistro,Commercial cleaning,Weekly service - September 2026 (5 visits),3200.00,Open
+INV-2106,2026-09-30,Deering Oaks Dental Arts,Commercial cleaning,Weekly service - September 2026 (4 visits),1920.00,Open
+INV-2107,2026-09-30,Back Cove Bakery,Commercial cleaning,Weekly service - September 2026 (5 visits),2100.00,Open
+INV-2108,2026-09-30,Old Port Dental,Commercial cleaning,Monthly service - September 2026 (2 evening visits),640.00,Open
+INV-2109,2026-09-30,Harborview Orthodontics,Commercial cleaning,Monthly service - September 2026 (2 evening visits),1150.00,Open
+INV-2110,2026-09-30,Spring Street Studios,Commercial cleaning,Monthly service - September 2026 (2 evening visits),560.00,Open
+INV-2111,2026-09-30,Riverton Family Chiropractic,Commercial cleaning,Monthly service - September 2026 (2 evening visits),480.00,Open
+INV-2112,2026-09-30,Casco Coast Property Management,Commercial cleaning,Rental turnovers - September 2026 (11 units),3330.00,Open
+INV-2113,2026-09-30,Longfellow Street Rentals,Commercial cleaning,Rental turnovers - September 2026 (7 units),2130.00,Open
+INV-2114,2026-09-30,Peaks Island Rentals,Commercial cleaning,Rental turnovers - September 2026 (6 units),2150.00,Open
+INV-2115,2026-09-30,Priya Natarajan,Handyman,Handyman services - September 2026 (1 job),560.00,Open
+INV-2116,2026-09-30,Priya Natarajan,Residential cleaning,Monthly cleaning statement - September 2026 (5 visits),1300.00,Open
+INV-2117,2026-09-30,Caleb Thibodeau,Residential cleaning,Monthly cleaning statement - September 2026 (2 visits),480.00,Open
+INV-2118,2026-09-30,Marguerite Okafor,Handyman,Handyman services - September 2026 (2 jobs),1160.00,Open
+INV-2119,2026-09-30,Marguerite Okafor,Residential cleaning,Monthly cleaning statement - September 2026 (4 visits),1200.00,Open
+INV-2120,2026-09-30,Ruth Hendricks,Handyman,Handyman services - September 2026 (2 jobs),970.00,Open
+INV-2121,2026-09-30,Ruth Hendricks,Residential cleaning,Monthly cleaning statement - September 2026 (3 visits),960.00,Open
+INV-2122,2026-09-30,Owen Castellano,Residential cleaning,Monthly cleaning statement - September 2026 (2 visits),440.00,Open
+INV-2123,2026-09-30,Beatrix Lindqvist,Handyman,Handyman services - September 2026 (1 job),495.00,Open
+INV-2124,2026-09-30,Beatrix Lindqvist,Residential cleaning,Monthly cleaning statement - September 2026 (4 visits),1360.00,Open
+INV-2125,2026-09-30,Samuel Agyemang,Residential cleaning,Monthly cleaning statement - September 2026 (2 visits),500.00,Open
+INV-2126,2026-09-30,Noor Haddad,Handyman,Handyman services - September 2026 (1 job),420.00,Open
+INV-2127,2026-09-30,Noor Haddad,Residential cleaning,Monthly cleaning statement - September 2026 (2 visits),560.00,Open
+INV-2128,2026-09-30,Theo Bergstrom,Handyman,Handyman services - September 2026 (1 job),385.00,Open
+INV-2129,2026-09-30,Theo Bergstrom,Residential cleaning,Monthly cleaning statement - September 2026 (5 visits),1375.00,Open
+INV-2130,2026-09-30,Imani Washington-Reyes,Handyman,Handyman services - September 2026 (1 job),610.00,Open
+INV-2131,2026-09-30,Imani Washington-Reyes,Residential cleaning,Monthly cleaning statement - September 2026 (2 visits),590.00,Open
+INV-2132,2026-09-30,Walter Pelletier,Residential cleaning,Monthly cleaning statement - September 2026 (2 visits),460.00,Open
+INV-2133,2026-09-30,Yuki Tanabe-Morrill,Residential cleaning,Monthly cleaning statement - September 2026 (4 visits),1240.00,Open

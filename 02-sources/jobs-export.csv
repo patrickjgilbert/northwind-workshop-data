@@ -1,0 +1,456 @@
+job_id,date,customer,service_line,crew,hours,price,status,invoice_no
+J-13328,2026-07-01,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2011
+J-13329,2026-07-01,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2016
+J-13330,2026-07-01,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2020
+J-13331,2026-07-01,Riverton Family Chiropractic,Commercial cleaning,Crew A,3.50,240.00,Completed,INV-2024
+J-13332,2026-07-01,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2028
+J-13333,2026-07-01,Samuel Agyemang,Residential cleaning,Crew B,3.00,250.00,Completed,INV-2037
+J-13334,2026-07-01,Noor Haddad,Handyman,Crew H,3.00,520.00,Completed,INV-2038
+J-13335,2026-07-02,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2013
+J-13336,2026-07-02,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2019
+J-13337,2026-07-02,Old Port Dental,Commercial cleaning,Crew A,4.50,320.00,Completed,INV-2021
+J-13338,2026-07-02,Casco Coast Property Management,Commercial cleaning,Crew B,4.75,335.00,Completed,INV-2025
+J-13339,2026-07-02,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2026
+J-13340,2026-07-02,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2027
+J-13341,2026-07-02,Owen Castellano,Residential cleaning,Crew B,2.50,220.00,Completed,INV-2033
+J-13342,2026-07-02,Noor Haddad,Handyman,Crew H,3.50,420.00,Completed,INV-2038
+J-13343,2026-07-02,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2046
+J-13344,2026-07-03,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2014
+J-13345,2026-07-03,Spring Street Studios,Commercial cleaning,Crew B,4.00,280.00,Completed,INV-2023
+J-13346,2026-07-03,Longfellow Street Rentals,Commercial cleaning,Crew B,5.25,360.00,Completed,INV-2026
+J-13347,2026-07-03,Peaks Island Rentals,Commercial cleaning,Crew B,6.00,415.00,Completed,INV-2027
+J-13348,2026-07-03,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2035
+J-13349,2026-07-03,Walter Pelletier,Handyman,Crew H,3.00,495.00,Completed,INV-2044
+J-13350,2026-07-04,Longfellow Street Rentals,Commercial cleaning,Crew B,5.25,360.00,Completed,INV-2026
+J-13351,2026-07-04,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2027
+J-13352,2026-07-05,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2025
+J-13353,2026-07-06,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2005
+J-13354,2026-07-06,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2007
+J-13355,2026-07-06,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2009
+J-13356,2026-07-06,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2017
+J-13357,2026-07-06,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2027
+J-13358,2026-07-06,Caleb Thibodeau,Residential cleaning,Crew A,2.75,240.00,Completed,INV-2029
+J-13359,2026-07-06,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2031
+J-13360,2026-07-06,Imani Washington-Reyes,Residential cleaning,Crew B,3.50,295.00,Completed,INV-2043
+J-13361,2026-07-07,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2010
+J-13362,2026-07-07,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2012
+J-13363,2026-07-07,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2018
+J-13364,2026-07-07,Harborview Orthodontics,Commercial cleaning,Crew A,8.25,575.00,Completed,INV-2022
+J-13365,2026-07-07,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2026
+J-13366,2026-07-07,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2027
+J-13367,2026-07-07,Ruth Hendricks,Residential cleaning,Crew B,3.75,320.00,Completed,INV-2032
+J-13368,2026-07-07,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2041
+J-13369,2026-07-08,Eastern Promenade Condominium Association,Handyman,Crew H,3.25,520.00,Completed,INV-2006
+J-13370,2026-07-08,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2011
+J-13371,2026-07-08,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2016
+J-13372,2026-07-08,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2020
+J-13373,2026-07-08,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2025
+J-13374,2026-07-08,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2028
+J-13375,2026-07-08,Marguerite Okafor,Handyman,Crew H,3.75,450.00,Completed,INV-2030
+J-13376,2026-07-08,Samuel Agyemang,Handyman,Crew H,3.25,560.00,Completed,INV-2036
+J-13377,2026-07-09,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2013
+J-13378,2026-07-09,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2019
+J-13379,2026-07-09,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2025
+J-13380,2026-07-09,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2046
+J-13381,2026-07-10,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2014
+J-13382,2026-07-10,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2035
+J-13383,2026-07-10,Noor Haddad,Residential cleaning,Crew B,3.25,280.00,Completed,INV-2039
+J-13384,2026-07-10,Imani Washington-Reyes,Handyman,Crew H,3.50,560.00,Completed,INV-2042
+J-13385,2026-07-11,Casco Coast Property Management,Commercial cleaning,Crew B,5.50,380.00,Completed,INV-2025
+J-13386,2026-07-12,Casco Coast Property Management,Commercial cleaning,Crew B,4.75,335.00,Completed,INV-2025
+J-13387,2026-07-12,Beatrix Lindqvist,Handyman,Crew H,3.75,640.00,Completed,INV-2034
+J-13388,2026-07-13,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2005
+J-13389,2026-07-13,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2007
+J-13390,2026-07-13,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2009
+J-13391,2026-07-13,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2017
+J-13392,2026-07-13,Casco Coast Property Management,Commercial cleaning,Crew B,5.50,380.00,Completed,INV-2025
+J-13393,2026-07-13,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2027
+J-13394,2026-07-13,Caleb Thibodeau,Residential cleaning,Crew A,0.00,240.00,Cancelled,
+J-13395,2026-07-13,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2031
+J-13396,2026-07-14,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2010
+J-13397,2026-07-14,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2012
+J-13398,2026-07-14,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2018
+J-13399,2026-07-14,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2025
+J-13400,2026-07-14,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2041
+J-13401,2026-07-14,Walter Pelletier,Residential cleaning,Crew A,2.75,230.00,Completed,INV-2045
+J-13402,2026-07-15,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2011
+J-13403,2026-07-15,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2016
+J-13404,2026-07-15,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2020
+J-13405,2026-07-15,Riverton Family Chiropractic,Commercial cleaning,Crew A,3.50,240.00,Completed,INV-2024
+J-13406,2026-07-15,Casco Coast Property Management,Commercial cleaning,Crew B,4.75,335.00,Completed,INV-2025
+J-13407,2026-07-15,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2028
+J-13408,2026-07-15,Samuel Agyemang,Residential cleaning,Crew B,3.00,250.00,Completed,INV-2037
+J-13409,2026-07-16,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2013
+J-13410,2026-07-16,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2019
+J-13411,2026-07-16,Old Port Dental,Commercial cleaning,Crew A,4.50,320.00,Completed,INV-2021
+J-13412,2026-07-16,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2026
+J-13413,2026-07-16,Owen Castellano,Residential cleaning,Crew B,2.50,220.00,Completed,INV-2033
+J-13414,2026-07-16,Samuel Agyemang,Handyman,Crew H,3.50,420.00,Completed,INV-2036
+J-13415,2026-07-16,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2046
+J-13416,2026-07-17,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2014
+J-13417,2026-07-17,Tidal Flats Coworking,Handyman,Crew H,3.00,610.00,Completed,INV-2015
+J-13418,2026-07-17,Spring Street Studios,Commercial cleaning,Crew B,4.00,280.00,Completed,INV-2023
+J-13419,2026-07-17,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2035
+J-13420,2026-07-18,Casco Coast Property Management,Commercial cleaning,Crew B,5.50,380.00,Completed,INV-2025
+J-13421,2026-07-18,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2027
+J-13422,2026-07-19,Casco Coast Property Management,Commercial cleaning,Crew B,4.75,335.00,Completed,INV-2025
+J-13423,2026-07-19,Peaks Island Rentals,Commercial cleaning,Crew B,5.25,370.00,Completed,INV-2027
+J-13424,2026-07-20,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2005
+J-13425,2026-07-20,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2007
+J-13426,2026-07-20,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2009
+J-13427,2026-07-20,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2017
+J-13428,2026-07-20,Caleb Thibodeau,Residential cleaning,Crew A,2.75,240.00,Completed,INV-2029
+J-13429,2026-07-20,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2031
+J-13430,2026-07-20,Noor Haddad,Handyman,Crew H,4.00,385.00,Completed,INV-2038
+J-13431,2026-07-20,Imani Washington-Reyes,Residential cleaning,Crew B,3.50,295.00,Completed,INV-2043
+J-13432,2026-07-21,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2010
+J-13433,2026-07-21,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2012
+J-13434,2026-07-21,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2018
+J-13435,2026-07-21,Harborview Orthodontics,Commercial cleaning,Crew A,8.25,575.00,Completed,INV-2022
+J-13436,2026-07-21,Ruth Hendricks,Residential cleaning,Crew B,3.75,320.00,Completed,INV-2032
+J-13437,2026-07-21,Theo Bergstrom,Handyman,Crew H,4.00,495.00,Completed,INV-2040
+J-13438,2026-07-21,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2041
+J-13439,2026-07-22,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2011
+J-13440,2026-07-22,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2016
+J-13441,2026-07-22,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2020
+J-13442,2026-07-22,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2028
+J-13443,2026-07-23,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2013
+J-13444,2026-07-23,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2019
+J-13445,2026-07-23,Casco Coast Property Management,Commercial cleaning,Crew B,4.75,335.00,Completed,INV-2025
+J-13446,2026-07-23,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2046
+J-13447,2026-07-24,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2014
+J-13448,2026-07-24,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2035
+J-13449,2026-07-24,Noor Haddad,Residential cleaning,Crew B,3.25,280.00,Completed,INV-2039
+J-13450,2026-07-25,Casco Coast Property Management,Commercial cleaning,Crew B,5.50,380.00,Completed,INV-2025
+J-13451,2026-07-25,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2027
+J-13452,2026-07-26,Stroudwater Commons Condominium Trust,Handyman,Crew H,3.25,385.00,Completed,INV-2008
+J-13453,2026-07-26,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2026
+J-13454,2026-07-27,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2005
+J-13455,2026-07-27,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2007
+J-13456,2026-07-27,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2009
+J-13457,2026-07-27,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2017
+J-13458,2026-07-27,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2025
+J-13459,2026-07-27,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2026
+J-13460,2026-07-27,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2027
+J-13461,2026-07-27,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2031
+J-13462,2026-07-28,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2010
+J-13463,2026-07-28,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2012
+J-13464,2026-07-28,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2018
+J-13465,2026-07-28,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2027
+J-13466,2026-07-28,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2041
+J-13467,2026-07-28,Walter Pelletier,Residential cleaning,Crew A,2.75,230.00,Completed,INV-2045
+J-13468,2026-07-29,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2011
+J-13469,2026-07-29,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2016
+J-13470,2026-07-29,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2020
+J-13471,2026-07-29,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2025
+J-13472,2026-07-29,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2026
+J-13473,2026-07-29,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2028
+J-13474,2026-07-29,Owen Castellano,Residential cleaning,Crew B,0.00,220.00,Cancelled,
+J-13475,2026-07-29,Samuel Agyemang,Residential cleaning,Crew B,3.00,250.00,Completed,INV-2037
+J-13476,2026-07-30,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2013
+J-13477,2026-07-30,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2019
+J-13478,2026-07-30,Owen Castellano,Residential cleaning,Crew B,2.50,220.00,Completed,INV-2033
+J-13479,2026-07-30,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2046
+J-13480,2026-07-31,Stroudwater Commons Condominium Trust,Handyman,Crew H,3.50,450.00,Completed,INV-2008
+J-13481,2026-07-31,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2014
+J-13482,2026-07-31,Longfellow Street Rentals,Commercial cleaning,Crew B,4.50,315.00,Completed,INV-2026
+J-13483,2026-07-31,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2035
+J-13484,2026-07-31,Theo Bergstrom,Handyman,Crew H,3.25,610.00,Completed,INV-2040
+J-13485,2026-08-01,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2071
+J-13486,2026-08-01,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2072
+J-13487,2026-08-02,Peaks Island Rentals,Commercial cleaning,Crew B,5.25,370.00,Completed,INV-2072
+J-13488,2026-08-03,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2048
+J-13489,2026-08-03,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2050
+J-13490,2026-08-03,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2052
+J-13491,2026-08-03,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2062
+J-13492,2026-08-03,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2070
+J-13493,2026-08-03,Longfellow Street Rentals,Commercial cleaning,Crew B,4.50,315.00,Completed,INV-2071
+J-13494,2026-08-03,Caleb Thibodeau,Residential cleaning,Crew A,2.75,240.00,Completed,INV-2076
+J-13495,2026-08-03,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2077
+J-13496,2026-08-03,Imani Washington-Reyes,Residential cleaning,Crew B,3.50,295.00,Completed,INV-2087
+J-13497,2026-08-04,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2053
+J-13498,2026-08-04,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2055
+J-13499,2026-08-04,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2063
+J-13500,2026-08-04,Harborview Orthodontics,Commercial cleaning,Crew A,8.25,575.00,Completed,INV-2067
+J-13501,2026-08-04,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2070
+J-13502,2026-08-04,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2071
+J-13503,2026-08-04,Ruth Hendricks,Residential cleaning,Crew B,3.75,320.00,Completed,INV-2078
+J-13504,2026-08-04,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2086
+J-13505,2026-08-05,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2054
+J-13506,2026-08-05,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2060
+J-13507,2026-08-05,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2065
+J-13508,2026-08-05,Back Cove Bakery,Handyman,Crew H,3.50,725.00,Completed,
+J-13509,2026-08-05,Riverton Family Chiropractic,Commercial cleaning,Crew A,3.50,240.00,Completed,INV-2069
+J-13510,2026-08-05,Casco Coast Property Management,Commercial cleaning,Crew B,4.75,335.00,Completed,INV-2070
+J-13511,2026-08-05,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2074
+J-13512,2026-08-06,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2056
+J-13513,2026-08-06,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2064
+J-13514,2026-08-06,Old Port Dental,Commercial cleaning,Crew A,4.50,320.00,Completed,INV-2066
+J-13515,2026-08-06,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2072
+J-13516,2026-08-06,Theo Bergstrom,Handyman,Crew H,3.25,640.00,Completed,INV-2085
+J-13517,2026-08-06,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2088
+J-13518,2026-08-07,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2058
+J-13519,2026-08-07,Spring Street Studios,Commercial cleaning,Crew B,4.00,280.00,Completed,INV-2068
+J-13520,2026-08-07,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2080
+J-13521,2026-08-07,Noor Haddad,Residential cleaning,Crew B,3.25,280.00,Completed,INV-2084
+J-13522,2026-08-08,Casco Coast Property Management,Commercial cleaning,Crew B,4.75,335.00,Completed,INV-2070
+J-13523,2026-08-09,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2072
+J-13524,2026-08-10,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2048
+J-13525,2026-08-10,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2050
+J-13526,2026-08-10,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2052
+J-13527,2026-08-10,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2062
+J-13528,2026-08-10,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2071
+J-13529,2026-08-10,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2077
+J-13530,2026-08-11,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2053
+J-13531,2026-08-11,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2055
+J-13532,2026-08-11,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2063
+J-13533,2026-08-11,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2086
+J-13534,2026-08-11,Theo Bergstrom,Residential cleaning,Crew A,0.00,275.00,Cancelled,
+J-13535,2026-08-12,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2054
+J-13536,2026-08-12,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2060
+J-13537,2026-08-12,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2065
+J-13538,2026-08-12,Back Cove Bakery,Handyman,Crew H,3.00,650.00,Completed,
+J-13539,2026-08-12,Casco Coast Property Management,Commercial cleaning,Crew B,4.75,335.00,Completed,INV-2070
+J-13540,2026-08-12,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2074
+J-13541,2026-08-12,Samuel Agyemang,Residential cleaning,Crew B,3.00,250.00,Completed,INV-2082
+J-13542,2026-08-13,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2056
+J-13543,2026-08-13,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2064
+J-13544,2026-08-13,Casco Coast Property Management,Commercial cleaning,Crew B,4.75,335.00,Completed,INV-2070
+J-13545,2026-08-13,Owen Castellano,Residential cleaning,Crew B,2.50,220.00,Completed,INV-2079
+J-13546,2026-08-13,Noor Haddad,Handyman,Crew H,3.50,520.00,Completed,INV-2083
+J-13547,2026-08-13,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2088
+J-13548,2026-08-14,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2058
+J-13549,2026-08-14,Tidal Flats Coworking,Handyman,Crew H,3.75,495.00,Completed,INV-2059
+J-13550,2026-08-14,Casco Coast Property Management,Commercial cleaning,Crew B,5.50,380.00,Completed,INV-2070
+J-13551,2026-08-14,Priya Natarajan,Handyman,Crew H,2.75,385.00,Completed,INV-2073
+J-13552,2026-08-14,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2080
+J-13553,2026-08-17,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2048
+J-13554,2026-08-17,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2050
+J-13555,2026-08-17,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2052
+J-13556,2026-08-17,Pleasant Hill Veterinary,Commercial cleaning,Crew B,10.75,760.00,Completed,INV-2061
+J-13557,2026-08-17,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2062
+J-13558,2026-08-17,Longfellow Street Rentals,Commercial cleaning,Crew B,4.50,315.00,Completed,INV-2071
+J-13559,2026-08-17,Caleb Thibodeau,Residential cleaning,Crew A,2.75,240.00,Completed,INV-2076
+J-13560,2026-08-17,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2077
+J-13561,2026-08-17,Imani Washington-Reyes,Residential cleaning,Crew B,3.50,295.00,Completed,INV-2087
+J-13562,2026-08-18,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2053
+J-13563,2026-08-18,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2055
+J-13564,2026-08-18,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2063
+J-13565,2026-08-18,Harborview Orthodontics,Commercial cleaning,Crew A,8.25,575.00,Completed,INV-2067
+J-13566,2026-08-18,Ruth Hendricks,Residential cleaning,Crew B,3.75,320.00,Completed,INV-2078
+J-13567,2026-08-18,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2086
+J-13568,2026-08-19,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2054
+J-13569,2026-08-19,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2060
+J-13570,2026-08-19,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2065
+J-13571,2026-08-19,Riverton Family Chiropractic,Commercial cleaning,Crew A,3.50,240.00,Completed,INV-2069
+J-13572,2026-08-19,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2070
+J-13573,2026-08-19,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2074
+J-13574,2026-08-20,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2056
+J-13575,2026-08-20,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2064
+J-13576,2026-08-20,Old Port Dental,Commercial cleaning,Crew A,4.50,320.00,Completed,INV-2066
+J-13577,2026-08-20,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2088
+J-13578,2026-08-21,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2058
+J-13579,2026-08-21,Spring Street Studios,Commercial cleaning,Crew B,4.00,280.00,Completed,INV-2068
+J-13580,2026-08-21,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2070
+J-13581,2026-08-21,Longfellow Street Rentals,Commercial cleaning,Crew B,5.25,360.00,Completed,INV-2071
+J-13582,2026-08-21,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2072
+J-13583,2026-08-21,Priya Natarajan,Residential cleaning,Crew A,2.50,0.00,Completed,INV-2047
+J-13584,2026-08-21,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2080
+J-13585,2026-08-21,Noor Haddad,Residential cleaning,Crew B,3.25,280.00,Completed,INV-2084
+J-13586,2026-08-22,Eastern Promenade Condominium Association,Handyman,Crew H,3.00,610.00,Completed,INV-2049
+J-13587,2026-08-22,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2070
+J-13588,2026-08-22,Longfellow Street Rentals,Commercial cleaning,Crew B,5.25,360.00,Completed,INV-2071
+J-13589,2026-08-23,Peaks Island Rentals,Commercial cleaning,Crew B,6.00,415.00,Completed,INV-2072
+J-13590,2026-08-24,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2048
+J-13591,2026-08-24,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2050
+J-13592,2026-08-24,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2052
+J-13593,2026-08-24,Pleasant Hill Veterinary,Commercial cleaning,Crew B,10.75,760.00,Completed,INV-2061
+J-13594,2026-08-24,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2062
+J-13595,2026-08-24,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2077
+J-13596,2026-08-24,Samuel Agyemang,Residential cleaning,Crew B,0.00,250.00,Cancelled,
+J-13597,2026-08-25,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2053
+J-13598,2026-08-25,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2055
+J-13599,2026-08-25,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2063
+J-13600,2026-08-25,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2086
+J-13601,2026-08-26,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2054
+J-13602,2026-08-26,Brackett Street Lofts Owners Association,Handyman,Crew H,4.00,450.00,Completed,INV-2057
+J-13603,2026-08-26,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2060
+J-13604,2026-08-26,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2065
+J-13605,2026-08-26,Back Cove Bakery,Handyman,Crew H,2.75,600.00,Completed,
+J-13606,2026-08-26,Casco Coast Property Management,Commercial cleaning,Crew B,4.75,335.00,Completed,INV-2070
+J-13607,2026-08-26,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2074
+J-13608,2026-08-26,Samuel Agyemang,Handyman,Crew H,4.00,560.00,Completed,INV-2081
+J-13609,2026-08-26,Samuel Agyemang,Residential cleaning,Crew B,3.00,250.00,Completed,INV-2082
+J-13610,2026-08-26,Noor Haddad,Handyman,Crew H,3.50,450.00,Completed,INV-2083
+J-13611,2026-08-27,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2056
+J-13612,2026-08-27,Tidal Flats Coworking,Handyman,Crew H,3.00,560.00,Completed,INV-2059
+J-13613,2026-08-27,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2064
+J-13614,2026-08-27,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2070
+J-13615,2026-08-27,Owen Castellano,Residential cleaning,Crew B,2.50,220.00,Completed,INV-2079
+J-13616,2026-08-27,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2088
+J-13617,2026-08-28,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2058
+J-13618,2026-08-28,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2070
+J-13619,2026-08-28,Priya Natarajan,Handyman,Crew H,3.00,495.00,Completed,INV-2073
+J-13620,2026-08-28,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2080
+J-13621,2026-08-29,Casco Coast Property Management,Commercial cleaning,Crew B,5.50,380.00,Completed,INV-2070
+J-13622,2026-08-29,Caleb Thibodeau,Handyman,Crew H,3.25,420.00,Completed,INV-2075
+J-13623,2026-08-30,Longfellow Street Rentals,Commercial cleaning,Crew B,5.25,360.00,Completed,INV-2071
+J-13624,2026-08-30,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2072
+J-13625,2026-08-31,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2048
+J-13626,2026-08-31,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2050
+J-13627,2026-08-31,Stroudwater Commons Condominium Trust,Handyman,Crew H,2.75,520.00,Completed,INV-2051
+J-13628,2026-08-31,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2052
+J-13629,2026-08-31,Pleasant Hill Veterinary,Commercial cleaning,Crew B,10.75,760.00,Completed,INV-2061
+J-13630,2026-08-31,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2062
+J-13631,2026-08-31,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2072
+J-13632,2026-08-31,Caleb Thibodeau,Residential cleaning,Crew A,2.75,240.00,Completed,INV-2076
+J-13633,2026-08-31,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2077
+J-13634,2026-08-31,Imani Washington-Reyes,Residential cleaning,Crew B,3.50,295.00,Completed,INV-2087
+J-13635,2026-09-01,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2094
+J-13636,2026-09-01,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2097
+J-13637,2026-09-01,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2105
+J-13638,2026-09-01,Harborview Orthodontics,Commercial cleaning,Crew A,8.25,575.00,Completed,INV-2109
+J-13639,2026-09-01,Ruth Hendricks,Residential cleaning,Crew B,3.75,320.00,Completed,INV-2121
+J-13640,2026-09-01,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2129
+J-13641,2026-09-02,Stroudwater Commons Condominium Trust,Handyman,Crew H,3.00,495.00,Completed,INV-2092
+J-13642,2026-09-02,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2095
+J-13643,2026-09-02,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2102
+J-13644,2026-09-02,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2107
+J-13645,2026-09-02,Riverton Family Chiropractic,Commercial cleaning,Crew A,3.50,240.00,Completed,INV-2111
+J-13646,2026-09-02,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2116
+J-13647,2026-09-03,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2098
+J-13648,2026-09-03,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2106
+J-13649,2026-09-03,Old Port Dental,Commercial cleaning,Crew A,4.50,320.00,Completed,INV-2108
+J-13650,2026-09-03,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2112
+J-13651,2026-09-03,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2114
+J-13652,2026-09-03,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2133
+J-13653,2026-09-04,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2100
+J-13654,2026-09-04,Spring Street Studios,Commercial cleaning,Crew B,4.00,280.00,Completed,INV-2110
+J-13655,2026-09-04,Casco Coast Property Management,Commercial cleaning,Crew B,5.50,380.00,Completed,INV-2112
+J-13656,2026-09-04,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2124
+J-13657,2026-09-04,Noor Haddad,Residential cleaning,Crew B,3.25,280.00,Completed,INV-2127
+J-13658,2026-09-05,Eastern Promenade Condominium Association,Handyman,Crew H,3.75,420.00,Completed,INV-2090
+J-13659,2026-09-05,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2112
+J-13660,2026-09-06,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2112
+J-13661,2026-09-07,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2089
+J-13662,2026-09-07,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2091
+J-13663,2026-09-07,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2093
+J-13664,2026-09-07,Pleasant Hill Veterinary,Commercial cleaning,Crew B,10.75,760.00,Completed,INV-2103
+J-13665,2026-09-07,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2104
+J-13666,2026-09-07,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2113
+J-13667,2026-09-07,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2119
+J-13668,2026-09-08,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2094
+J-13669,2026-09-08,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2097
+J-13670,2026-09-08,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2105
+J-13671,2026-09-08,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2129
+J-13672,2026-09-08,Walter Pelletier,Residential cleaning,Crew A,2.75,230.00,Completed,INV-2132
+J-13673,2026-09-09,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2095
+J-13674,2026-09-09,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2102
+J-13675,2026-09-09,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2107
+J-13676,2026-09-09,Longfellow Street Rentals,Commercial cleaning,Crew B,5.25,360.00,Completed,INV-2113
+J-13677,2026-09-09,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2114
+J-13678,2026-09-09,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2116
+J-13679,2026-09-09,Ruth Hendricks,Handyman,Crew H,3.25,450.00,Completed,INV-2120
+J-13680,2026-09-09,Ruth Hendricks,Residential cleaning,Crew B,0.00,320.00,Cancelled,
+J-13681,2026-09-09,Samuel Agyemang,Residential cleaning,Crew B,3.00,250.00,Completed,INV-2125
+J-13682,2026-09-10,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2098
+J-13683,2026-09-10,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2106
+J-13684,2026-09-10,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2112
+J-13685,2026-09-10,Priya Natarajan,Handyman,Crew H,3.50,560.00,Completed,INV-2115
+J-13686,2026-09-10,Marguerite Okafor,Handyman,Crew H,4.00,520.00,Completed,INV-2118
+J-13687,2026-09-10,Owen Castellano,Residential cleaning,Crew B,2.50,220.00,Completed,INV-2122
+J-13688,2026-09-10,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2133
+J-13689,2026-09-11,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2100
+J-13690,2026-09-11,Tidal Flats Coworking,Handyman,Crew H,3.75,450.00,Completed,INV-2101
+J-13691,2026-09-11,Longfellow Street Rentals,Commercial cleaning,Crew B,4.50,315.00,Completed,INV-2113
+J-13692,2026-09-11,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2124
+J-13693,2026-09-11,Theo Bergstrom,Handyman,Crew H,3.25,385.00,Completed,INV-2128
+J-13694,2026-09-14,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2089
+J-13695,2026-09-14,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2091
+J-13696,2026-09-14,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2093
+J-13697,2026-09-14,Pleasant Hill Veterinary,Commercial cleaning,Crew B,10.75,760.00,Completed,INV-2103
+J-13698,2026-09-14,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2104
+J-13699,2026-09-14,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2112
+J-13700,2026-09-14,Caleb Thibodeau,Residential cleaning,Crew A,2.75,240.00,Completed,INV-2117
+J-13701,2026-09-14,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2119
+J-13702,2026-09-14,Imani Washington-Reyes,Residential cleaning,Crew B,3.50,295.00,Completed,INV-2131
+J-13703,2026-09-15,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2094
+J-13704,2026-09-15,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2097
+J-13705,2026-09-15,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2105
+J-13706,2026-09-15,Harborview Orthodontics,Commercial cleaning,Crew A,8.25,575.00,Completed,INV-2109
+J-13707,2026-09-15,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2112
+J-13708,2026-09-15,Longfellow Street Rentals,Commercial cleaning,Crew B,4.50,315.00,Completed,INV-2113
+J-13709,2026-09-15,Ruth Hendricks,Residential cleaning,Crew B,3.75,320.00,Completed,INV-2121
+J-13710,2026-09-15,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2129
+J-13711,2026-09-16,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2095
+J-13712,2026-09-16,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2102
+J-13713,2026-09-16,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2107
+J-13714,2026-09-16,Riverton Family Chiropractic,Commercial cleaning,Crew A,3.50,240.00,Completed,INV-2111
+J-13715,2026-09-16,Peaks Island Rentals,Commercial cleaning,Crew B,6.00,415.00,Completed,INV-2114
+J-13716,2026-09-16,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2116
+J-13717,2026-09-16,Ruth Hendricks,Handyman,Crew H,3.50,520.00,Completed,INV-2120
+J-13718,2026-09-17,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2098
+J-13719,2026-09-17,Brackett Street Lofts Owners Association,Handyman,Crew H,3.75,560.00,Completed,INV-2099
+J-13720,2026-09-17,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2106
+J-13721,2026-09-17,Old Port Dental,Commercial cleaning,Crew A,4.50,320.00,Completed,INV-2108
+J-13722,2026-09-17,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2112
+J-13723,2026-09-17,Peaks Island Rentals,Commercial cleaning,Crew B,6.00,415.00,Completed,INV-2114
+J-13724,2026-09-17,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2133
+J-13725,2026-09-18,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2100
+J-13726,2026-09-18,Spring Street Studios,Commercial cleaning,Crew B,4.00,280.00,Completed,INV-2110
+J-13727,2026-09-18,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2124
+J-13728,2026-09-18,Noor Haddad,Residential cleaning,Crew B,3.25,280.00,Completed,INV-2127
+J-13729,2026-09-19,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2112
+J-13730,2026-09-21,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2089
+J-13731,2026-09-21,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2091
+J-13732,2026-09-21,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2093
+J-13733,2026-09-21,Pleasant Hill Veterinary,Commercial cleaning,Crew B,10.75,760.00,Completed,INV-2103
+J-13734,2026-09-21,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2104
+J-13735,2026-09-21,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2112
+J-13736,2026-09-21,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2114
+J-13737,2026-09-21,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2119
+J-13738,2026-09-22,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2094
+J-13739,2026-09-22,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2097
+J-13740,2026-09-22,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2105
+J-13741,2026-09-22,Casco Coast Property Management,Commercial cleaning,Crew B,4.25,295.00,Completed,INV-2112
+J-13742,2026-09-22,Noor Haddad,Handyman,Crew H,3.50,420.00,Completed,INV-2126
+J-13743,2026-09-22,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2129
+J-13744,2026-09-22,Imani Washington-Reyes,Handyman,Crew H,3.75,610.00,Completed,INV-2130
+J-13745,2026-09-22,Imani Washington-Reyes,Residential cleaning,Crew B,0.00,295.00,Cancelled,
+J-13746,2026-09-22,Walter Pelletier,Residential cleaning,Crew A,2.75,230.00,Completed,INV-2132
+J-13747,2026-09-23,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2095
+J-13748,2026-09-23,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2102
+J-13749,2026-09-23,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2107
+J-13750,2026-09-23,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2113
+J-13751,2026-09-23,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2116
+J-13752,2026-09-23,Marguerite Okafor,Handyman,Crew H,3.00,640.00,Completed,INV-2118
+J-13753,2026-09-23,Samuel Agyemang,Residential cleaning,Crew B,3.00,250.00,Completed,INV-2125
+J-13754,2026-09-24,Brackett Street Lofts Owners Association,Commercial cleaning,Crew C,38.50,2700.00,Completed,INV-2098
+J-13755,2026-09-24,Deering Oaks Dental Arts,Commercial cleaning,Crew A,6.75,480.00,Completed,INV-2106
+J-13756,2026-09-24,Owen Castellano,Residential cleaning,Crew B,2.50,220.00,Completed,INV-2122
+J-13757,2026-09-24,Yuki Tanabe-Morrill,Residential cleaning,Crew A,3.75,310.00,Completed,INV-2133
+J-13758,2026-09-25,Baxter Woods Condominium Association,Handyman,Crew H,3.00,610.00,Completed,INV-2096
+J-13759,2026-09-25,Tidal Flats Coworking,Commercial cleaning,Crew C,34.25,2400.00,Completed,INV-2100
+J-13760,2026-09-25,Beatrix Lindqvist,Residential cleaning,Crew A,4.00,340.00,Completed,INV-2124
+J-13761,2026-09-26,Beatrix Lindqvist,Handyman,Crew H,3.25,495.00,Completed,INV-2123
+J-13762,2026-09-27,Longfellow Street Rentals,Commercial cleaning,Crew B,4.50,315.00,Completed,INV-2113
+J-13763,2026-09-27,Peaks Island Rentals,Commercial cleaning,Crew B,4.75,330.00,Completed,INV-2114
+J-13764,2026-09-28,Eastern Promenade Condominium Association,Commercial cleaning,Crew C,249.75,17485.00,Completed,INV-2089
+J-13765,2026-09-28,Stroudwater Commons Condominium Trust,Commercial cleaning,Crew C,70.00,4900.00,Completed,INV-2091
+J-13766,2026-09-28,Westbrook Crossing Professional Park,Commercial cleaning,Crew C,98.50,6900.00,Completed,INV-2093
+J-13767,2026-09-28,Pleasant Hill Veterinary,Commercial cleaning,Crew B,10.75,760.00,Completed,INV-2103
+J-13768,2026-09-28,The Wharf House Restaurant,Commercial cleaning,Crew A,10.25,720.00,Completed,INV-2104
+J-13769,2026-09-28,Longfellow Street Rentals,Commercial cleaning,Crew B,4.00,275.00,Completed,INV-2113
+J-13770,2026-09-28,Caleb Thibodeau,Residential cleaning,Crew A,2.75,240.00,Completed,INV-2117
+J-13771,2026-09-28,Marguerite Okafor,Residential cleaning,Crew A,3.50,300.00,Completed,INV-2119
+J-13772,2026-09-28,Imani Washington-Reyes,Residential cleaning,Crew B,3.50,295.00,Completed,INV-2131
+J-13773,2026-09-29,Bramhall Square Offices,Commercial cleaning,Crew C,61.50,4300.00,Completed,INV-2094
+J-13774,2026-09-29,Marginal Way Medical Suites,Commercial cleaning,Crew C,44.25,3100.00,Completed,INV-2097
+J-13775,2026-09-29,Fore Street Bistro,Commercial cleaning,Crew C,9.25,640.00,Completed,INV-2105
+J-13776,2026-09-29,Ruth Hendricks,Residential cleaning,Crew B,3.75,320.00,Completed,INV-2121
+J-13777,2026-09-29,Noor Haddad,Residential cleaning,Crew B,0.00,280.00,Cancelled,
+J-13778,2026-09-29,Theo Bergstrom,Residential cleaning,Crew A,3.25,275.00,Completed,INV-2129
+J-13779,2026-09-30,Baxter Woods Condominium Association,Commercial cleaning,Crew C,54.25,3800.00,Completed,INV-2095
+J-13780,2026-09-30,Ocean Avenue Pediatrics,Commercial cleaning,Crew A,12.75,890.00,Completed,INV-2102
+J-13781,2026-09-30,Back Cove Bakery,Commercial cleaning,Crew A,6.00,420.00,Completed,INV-2107
+J-13782,2026-09-30,Priya Natarajan,Residential cleaning,Crew A,3.00,260.00,Completed,INV-2116

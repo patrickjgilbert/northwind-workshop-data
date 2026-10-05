@@ -1,0 +1,164 @@
+Northwind Home Services - Ops meeting
+Recorded via Zoom - Sep 18, 2026 10:00 AM Eastern
+Participants: Dana Whitfield, Marcus Reyes, Elena Marsh, Jordan Lee, Sofia Alvarez, Tom Kowalski, Rafael Ortiz
+Transcript generated automatically. Speaker labels may contain errors.
+
+00:00:04 Dana Whitfield: Okay, I think we have everyone. Marcus, Elena, Jordan, Sofia, Tom. Rafael is joining from the van. This is the September ops meeting, and I want to get through four things: the August arrival problem at Eastern Promenade, the handyman hours, hiring, and Lakeshore. Elena has a billing item at the end.
+
+00:00:24 Marcus Reyes: Rafael says he can hear us, his camera is off.
+
+00:00:28 Rafael Ortiz: I'm here. Parked.
+
+00:00:30 Dana Whitfield: Good. Let's start with Eastern Promenade because Gretchen is waiting on me. In August, Crew C arrived after the window closed three times. August 6, August 13, August 27. She sent me the times. On the 27th the board president was standing in the lobby.
+
+00:00:47 Marcus Reyes: All three were the same cause. Stroudwater was the first stop and it kept running long. The elevator pit flooded on the 13th. On the 27th it was a delivery blocking the loading dock. We flipped the order on September 1. Eastern Prom is the 7:00 start now and Stroudwater is second.
+
+00:01:07 Dana Whitfield: And since the flip?
+
+00:01:09 Marcus Reyes: Zero misses. Two and a half weeks. Kenji has been in the building by 6:55 every day.
+
+00:01:16 Dana Whitfield: Okay. That's the fix. Now the credit. Our service standards say a missed window gets a credit, and for a commercial account it totals on the monthly statement. The standard residential number is $45 an hour of labor. That is not the right number for a building that pays us what Eastern Promenade pays us.
+
+00:01:37 Elena Marsh: What did you tell Gretchen?
+
+00:01:39 Dana Whitfield: I told her I'd make it right on the September invoice and bring the number here first. Here is the number. $400 per missed window, three windows, $1,200 total, as a credit line on the September invoice. That is roughly a third of one week of service. The board sees it in writing, it's done, and we move on.
+
+00:02:02 Jordan Lee: I'd rather do that than have it come up in the contract conversation in January. $1,200 against what they pay us a year is nothing.
+
+00:02:12 Elena Marsh: Fine with me. I need it by the 25th to get it on the September run. The September invoice goes out on the 30th.
+
+00:02:21 Dana Whitfield: You have it now. $1,200 credit, Eastern Promenade, September invoice. Marcus, put it in the action items. Elena owns it.
+
+00:02:29 Marcus Reyes: Got it.
+
+00:02:31 Sofia Alvarez: Do you want me to send Gretchen anything, or is that you?
+
+00:02:36 Dana Whitfield: That's me. I'll email her today with the number and the schedule change. You take the board president if he calls.
+
+00:02:44 Sofia Alvarez: Okay.
+
+00:02:46 Dana Whitfield: Second thing. Handyman hours. Rafael, you're on.
+
+00:02:49 Rafael Ortiz: So the thing Marcus flagged in Slack. We quote a job at two, two and a half hours and it takes four. The deck railing at Tanabe-Morrill, the posts were rotted under the paint. The Brackett Street laundry room door, the frame was out of square. Three of those in September already.
+
+00:03:09 Dana Whitfield: Elena, what does it look like in the numbers?
+
+00:03:12 Elena Marsh: When we started tracking it in the spring of 2024 a handyman job averaged about 2.1 crew hours. The last three months it is about 3.4. The price per job has not moved. We are still quoting $385 to $640 depending on the job, same list as two years ago. So the margin on that line has been walking down for a long time and nobody was looking at it because the total revenue on the line kept growing.
+
+00:03:42 Dana Whitfield: So we're doing more jobs and making less on each one.
+
+00:03:46 Elena Marsh: Yes. And it's not a Rafael problem. The jobs are harder. Half of them now come from the commercial accounts, and a door in a 1920s condo building is not a door in a ranch house in Deering.
+
+00:04:01 Rafael Ortiz: I've been saying that.
+
+00:04:03 Dana Whitfield: You have. Okay. Two things. One, Rafael, from October 1, every handyman quote over two hours gets a site visit before we quote, not a phone estimate. Two, Elena, build me the price list with the hours we actually spend, not the hours we quoted in 2024, and we'll reprice in January with the commercial contracts.
+
+00:04:25 Elena Marsh: I can have that for the October meeting.
+
+00:04:28 Dana Whitfield: Good. Tom, hiring.
+
+00:04:30 Tom Kowalski: Three cleaners start October 5. Two go to Marisol on Crew A, one to Devin on Crew B. Offer letters are signed. Uniforms came in from Stitchworks, they're in the back closet. I still need one more for Crew C by November if Jordan closes anything.
+
+00:04:48 Marcus Reyes: On that. If Lakeshore happens we need a whole crew, not one person. Sixty buildings weekly is four people and a van, minimum. I'd want them hired by the middle of October to be ready for November 1.
+
+00:05:03 Tom Kowalski: Then I need to know by October 1 whether to post. I can get four in three weeks if I start now. I cannot get four in one week.
+
+00:05:14 Dana Whitfield: Post it on October 1 either way. If Lakeshore doesn't close we are still short on Crew C and we have the annex at Westbrook Crossing and the Marginal Way expansion in the pipeline. Worst case we hire two instead of four.
+
+00:05:30 Tom Kowalski: Okay. Posting goes up October 1.
+
+00:05:32 Elena Marsh: One more thing on people. Routeboard is billing us for 24 seats. We have 19 people on it. I asked Marcus to look at who the other five are.
+
+00:05:43 Marcus Reyes: Three are people who left. One is a test account from when we set it up. One I can't identify. I'll clean it up this week. That's $95 a month we've been paying for nothing.
+
+00:05:56 Dana Whitfield: Do it today. Elena, that's a good catch. Tom, when someone leaves, the checklist includes taking them off Routeboard. Add it.
+
+00:06:04 Tom Kowalski: Added.
+
+00:06:06 Jordan Lee: Which brings us to Lakeshore.
+
+00:06:08 Dana Whitfield: Go.
+
+00:06:10 Jordan Lee: Lakeshore Property Partners. Property manager in Portland, 48 buildings, and they just bought 12 more in South Portland, which was in the paper. They fired their cleaning vendor in June. The ops director is Tobias Renner. I had the first call with him on the 16th, Dana you were on for the last fifteen minutes. He said the budget is around $110,000 a year, decision by the end of October, and they're talking to three vendors including us.
+
+00:06:40 Dana Whitfield: Who are the other two?
+
+00:06:42 Jordan Lee: ProClean Maine, which has a per-unit price on their website. And he mentioned Bay State Facility Group, which is the big regional one, and Coastal Commercial Clean. So three, and us. He asked twice whether we have done anything at 48 buildings. I said Eastern Promenade is 11 buildings and 340 units and we've held it for two and a half years.
+
+00:07:06 Dana Whitfield: That's the right answer. What's the second call?
+
+00:07:09 Jordan Lee: Thursday the 24th. He wants a proposal in hand by the end of the month.
+
+00:07:15 Dana Whitfield: Okay. I'll be on it. Here is what I want everyone to understand about Lakeshore. If we win it, it is the biggest account since Eastern Promenade, and it means we have two customers that together are more than half of the company. Elena, what is Eastern Promenade as a share of us right now?
+
+00:07:36 Elena Marsh: Trailing twelve months, Eastern Promenade is about 31 percent of revenue. Lakeshore at $110,000 would be another four percent, so it's not the same thing. But it would be our second biggest commercial account on day one.
+
+00:07:50 Dana Whitfield: Right. So I want to win it, and I don't want to win it at a price that loses money. Jordan, before Thursday, I want a floor from Elena. The number below which we say no. And nobody says that number on the call.
+
+00:08:07 Jordan Lee: Understood.
+
+00:08:09 Elena Marsh: I'll have it to you both tomorrow. It'll be a monthly number.
+
+00:08:14 Jordan Lee: Can I say one more thing about how we pitch it? What Tobias kept coming back to was reporting. He's hiring a coordinator whose whole job is a vendor scorecard. Nobody else is going to lead with that. ProClean leads with price per unit. The big regional leads with being big. If we walk in with a sample monthly report, with photos, using Eastern Promenade as the example, that's the thing he can hand to his owners.
+
+00:08:44 Dana Whitfield: Yes. Build the sample from a real month at Eastern Promenade, with Gretchen's permission, with the three missed windows in it. Don't hide them. Show the credit, show the fix, show September with zero misses. That is the report. A vendor who tells you when they missed is the one you keep.
+
+00:09:04 Jordan Lee: I like that. I'll ask Gretchen tomorrow.
+
+00:09:07 Sofia Alvarez: If it helps, I can pull the tenant reviews for Lakeshore. The complaints are public. Slow maintenance, dirty hallways, laundry rooms. If the proposal answers those by name, it reads like we did the homework.
+
+00:09:20 Dana Whitfield: Do that. Send it to Jordan by Monday.
+
+00:09:23 Dana Whitfield: Good. Marcus, anything on the vans?
+
+00:09:25 Marcus Reyes: Van 1 transmission service is done, that was $2,247 at Fore River. Van 2 brakes were done in July. Van 3 goes in for inspection. We're fine through the winter. The snow contract with Greenline renews November 1, and I want to add the two new condo accounts to it.
+
+00:09:44 Dana Whitfield: Do it. Elena, get a PO to Greenline for the renewal so we are not chasing it in December.
+
+00:09:51 Elena Marsh: Okay. That's a good segue to my item.
+
+00:09:54 Dana Whitfield: Go ahead.
+
+00:09:56 Elena Marsh: Vendor invoices. I have a tray with about thirty things in it from this quarter. Some came by email, some by mail, some came out of a van. Casco Bay sent at least one invoice twice, once by email and once on paper, and I am not sure whether I paid it twice. Tidewater's August invoice has no PO on it at all. Fuel co-op statements come as photos of the pump receipt. I spend a day a month on this.
+
+00:10:27 Dana Whitfield: What do you need?
+
+00:10:29 Elena Marsh: Two things. One, every vendor gets told: PO number on the invoice or it does not get paid. I started with Casco Bay in July. Two, I want to stop accepting paper. Everything to ap@northwindhome.example.
+
+00:10:42 Marcus Reyes: The subs won't all do that. Tidewater is one guy and a truck.
+
+00:10:47 Elena Marsh: Then he hands it to Rafael and Rafael takes a photo and emails it. The point is one inbox.
+
+00:10:54 Dana Whitfield: Agreed. One inbox, PO on everything, and Elena, if you think you paid Casco Bay twice, find out this week and get the credit. Marcus, the PO rule goes in the vendor letter. Sofia, anything on reviews?
+
+00:11:08 Sofia Alvarez: Quiet month. One two-star from a tenant at Spring Street Studios about a restroom, which is not our scope, the studio manager knows. The Priya Natarajan re-clean in August went well, she left a five-star after. That's the one where Marisol missed the kitchen and baths and went back Thursday at no charge.
+
+00:11:28 Dana Whitfield: Good. That is exactly how I want those handled. Own it, go back, no charge, no argument.
+
+00:11:35 Sofia Alvarez: The review follow-up log is current. Nothing older than two days.
+
+00:11:39 Marcus Reyes: Two scheduling things before you wrap. Casco Coast goes to weekday-only turnovers after October 1, Hal emailed Dana. That's five or six a month instead of twelve to fifteen. Devin gets his Saturdays back, and I'm going to use Crew B on Saturdays for the fall deep cleans we've been turning away.
+
+00:11:59 Dana Whitfield: Good. What's the second?
+
+00:12:01 Marcus Reyes: Peaks Island winds down after Columbus Day. The ferry schedule changes and Bev only has two or three units going in the winter. Same as last year. I'll pull Nadia back to Crew A full time in October.
+
+00:12:16 Dana Whitfield: Fine. Elena, where did the quarter land? Rough.
+
+00:12:19 Elena Marsh: Rough, with September not out yet: a little under $740,000 invoiced for the quarter, which is the best quarter we've had. Eastern Promenade is about $230,000 of that. Commercial overall is roughly four out of every five dollars now. Residential is flat, which is fine, that's not where we are investing. Handyman revenue is up and the margin on it is down, which is the conversation we just had.
+
+00:12:46 Dana Whitfield: And collections?
+
+00:12:48 Elena Marsh: Two August invoices are past due, Fore Street Bistro and the Castellano statement. Both small. I'll call them this week. Everything else from July and August is paid.
+
+00:12:59 Dana Whitfield: Okay. Last thing from me. Q3 closes in twelve days. Elena, when the September invoices go out on the 30th, I want the quarter in one place. What we invoiced, by customer. What the crews actually did, from Routeboard. And anything we promised somebody that is not on an invoice, because I am sure there is some of that and I would rather find it than have a customer find it.
+
+00:13:26 Elena Marsh: That is going to take me a week.
+
+00:13:29 Dana Whitfield: Then it takes a week. Marcus, action items.
+
+00:13:32 Marcus Reyes: One. Elena, $1,200 credit on the Eastern Promenade September invoice, by the 25th. Two. Dana emails Gretchen today with the number and the schedule change. Three. Rafael, site visit before any handyman quote over two hours, from October 1. Four. Elena, handyman price list with real hours, for the October meeting. Five. Elena, floor number for Lakeshore to Dana and Jordan by tomorrow. Six. Greenline PO for the snow renewal. Seven. Vendor letter, PO on every invoice, one inbox. Eight. Elena checks whether Casco Bay was paid twice. Nine. Q3 reconciliation after the 30th.
+
+00:14:08 Dana Whitfield: That's it. Thanks everyone. Rafael, drive safe.
+
+00:14:11 Rafael Ortiz: Thanks.

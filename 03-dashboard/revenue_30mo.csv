@@ -1,0 +1,1134 @@
+month_end,month,customer_id,customer,service_line,revenue,direct_cost,crew_hours,jobs
+2024-04-30,2024-04,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,68190.00,32913.85,973.75,5
+2024-04-30,2024-04,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2024-04-30,2024-04,C-2002,Stroudwater Commons Condominium Trust,Handyman,945.00,359.90,4.25,2
+2024-04-30,2024-04,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2024-04-30,2024-04,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2024-04-30,2024-04,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2024-04-30,2024-04,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2024-04-30,2024-04,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2024-04-30,2024-04,C-2019,Casco Coast Property Management,Commercial cleaning,2530.00,1232.70,36.50,8
+2024-04-30,2024-04,C-2020,Longfellow Street Rentals,Commercial cleaning,1455.00,709.20,21.00,5
+2024-04-30,2024-04,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2024-04-30,2024-04,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2024-04-30,2024-04,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2024-04-30,2024-04,R-3002,Caleb Thibodeau,Handyman,560.00,197.70,2.25,1
+2024-04-30,2024-04,R-3002,Caleb Thibodeau,Residential cleaning,720.00,316.50,8.25,3
+2024-04-30,2024-04,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2024-04-30,2024-04,R-3004,Ruth Hendricks,Residential cleaning,960.00,430.50,11.25,3
+2024-04-30,2024-04,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2024-04-30,2024-04,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2024-04-30,2024-04,R-3010,Imani Washington-Reyes,Residential cleaning,885.00,401.25,10.50,3
+2024-04-30,2024-04,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2024-04-30,2024-04,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2024-04-30,2024-04,R-3013,Hollis Brannigan,Handyman,520.00,178.40,2.00,1
+2024-04-30,2024-04,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2024-05-31,2024-05,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2024-05-31,2024-05,C-2001,Eastern Promenade Condominium Association,Handyman,495.00,160.90,1.75,1
+2024-05-31,2024-05,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2024-05-31,2024-05,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2024-05-31,2024-05,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,13500.00,6507.50,192.50,5
+2024-05-31,2024-05,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2024-05-31,2024-05,C-2013,Deering Oaks Dental Arts,Commercial cleaning,2400.00,1142.25,33.75,5
+2024-05-31,2024-05,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2024-05-31,2024-05,C-2019,Casco Coast Property Management,Commercial cleaning,3995.00,1934.55,57.25,13
+2024-05-31,2024-05,C-2020,Longfellow Street Rentals,Commercial cleaning,2130.00,1038.45,30.75,7
+2024-05-31,2024-05,C-2021,Peaks Island Rentals,Commercial cleaning,2020.00,979.80,29.00,6
+2024-05-31,2024-05,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2024-05-31,2024-05,C-2023,Deering Center Family Dental,Commercial cleaning,2050.00,973.25,28.75,5
+2024-05-31,2024-05,R-3001,Priya Natarajan,Handyman,1160.00,400.20,4.50,2
+2024-05-31,2024-05,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2024-05-31,2024-05,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2024-05-31,2024-05,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2024-05-31,2024-05,R-3004,Ruth Hendricks,Handyman,1060.00,388.20,4.50,2
+2024-05-31,2024-05,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2024-05-31,2024-05,R-3006,Beatrix Lindqvist,Residential cleaning,1700.00,765.00,20.00,5
+2024-05-31,2024-05,R-3008,Noor Haddad,Residential cleaning,840.00,373.50,9.75,3
+2024-05-31,2024-05,R-3010,Imani Washington-Reyes,Handyman,980.00,407.60,5.00,2
+2024-05-31,2024-05,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2024-05-31,2024-05,R-3011,Walter Pelletier,Handyman,385.00,147.70,1.75,1
+2024-05-31,2024-05,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2024-05-31,2024-05,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1550.00,715.00,18.75,5
+2024-05-31,2024-05,R-3013,Hollis Brannigan,Residential cleaning,1325.00,576.25,15.00,5
+2024-06-30,2024-06,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2024-06-30,2024-06,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2024-06-30,2024-06,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2024-06-30,2024-06,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2024-06-30,2024-06,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2024-06-30,2024-06,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2024-06-30,2024-06,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2024-06-30,2024-06,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2024-06-30,2024-06,C-2019,Casco Coast Property Management,Commercial cleaning,4845.00,2356.05,69.75,15
+2024-06-30,2024-06,C-2020,Longfellow Street Rentals,Commercial cleaning,2325.00,1139.25,33.75,8
+2024-06-30,2024-06,C-2021,Peaks Island Rentals,Commercial cleaning,2765.00,1342.85,39.75,8
+2024-06-30,2024-06,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2024-06-30,2024-06,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2024-06-30,2024-06,R-3001,Priya Natarajan,Handyman,520.00,207.40,2.50,1
+2024-06-30,2024-06,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2024-06-30,2024-06,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2024-06-30,2024-06,R-3003,Marguerite Okafor,Handyman,1105.00,408.10,4.75,2
+2024-06-30,2024-06,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2024-06-30,2024-06,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2024-06-30,2024-06,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2024-06-30,2024-06,R-3008,Noor Haddad,Handyman,1010.00,353.20,4.00,2
+2024-06-30,2024-06,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2024-06-30,2024-06,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2024-06-30,2024-06,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2024-06-30,2024-06,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2024-06-30,2024-06,R-3013,Hollis Brannigan,Handyman,420.00,180.90,2.25,1
+2024-06-30,2024-06,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2024-07-31,2024-07,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,68190.00,32913.85,973.75,5
+2024-07-31,2024-07,C-2001,Eastern Promenade Condominium Association,Handyman,610.00,203.70,2.25,1
+2024-07-31,2024-07,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2024-07-31,2024-07,C-2002,Stroudwater Commons Condominium Trust,Handyman,520.00,207.40,2.50,1
+2024-07-31,2024-07,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2024-07-31,2024-07,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2024-07-31,2024-07,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,4450.00,2154.25,63.75,5
+2024-07-31,2024-07,C-2009,Ocean Avenue Pediatrics,Handyman,450.00,199.00,2.50,1
+2024-07-31,2024-07,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2024-07-31,2024-07,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2024-07-31,2024-07,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2024-07-31,2024-07,C-2019,Casco Coast Property Management,Commercial cleaning,4930.00,2398.20,71.00,15
+2024-07-31,2024-07,C-2020,Longfellow Street Rentals,Commercial cleaning,2410.00,1181.40,35.00,8
+2024-07-31,2024-07,C-2021,Peaks Island Rentals,Commercial cleaning,3135.00,1520.40,45.00,9
+2024-07-31,2024-07,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2024-07-31,2024-07,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2024-07-31,2024-07,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2024-07-31,2024-07,R-3002,Caleb Thibodeau,Handyman,385.00,147.70,1.75,1
+2024-07-31,2024-07,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2024-07-31,2024-07,R-3003,Marguerite Okafor,Handyman,560.00,212.20,2.50,1
+2024-07-31,2024-07,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2024-07-31,2024-07,R-3004,Ruth Hendricks,Handyman,420.00,166.40,2.00,1
+2024-07-31,2024-07,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2024-07-31,2024-07,R-3006,Beatrix Lindqvist,Handyman,495.00,175.40,2.00,1
+2024-07-31,2024-07,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2024-07-31,2024-07,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2024-07-31,2024-07,R-3010,Imani Washington-Reyes,Handyman,640.00,236.30,2.75,1
+2024-07-31,2024-07,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2024-07-31,2024-07,R-3011,Walter Pelletier,Residential cleaning,690.00,315.00,8.25,3
+2024-07-31,2024-07,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2024-07-31,2024-07,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2024-08-31,2024-08,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2024-08-31,2024-08,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2024-08-31,2024-08,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2024-08-31,2024-08,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,13500.00,6507.50,192.50,5
+2024-08-31,2024-08,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2024-08-31,2024-08,C-2009,Ocean Avenue Pediatrics,Handyman,560.00,197.70,2.25,1
+2024-08-31,2024-08,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2024-08-31,2024-08,C-2013,Deering Oaks Dental Arts,Commercial cleaning,2400.00,1142.25,33.75,5
+2024-08-31,2024-08,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2024-08-31,2024-08,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2024-08-31,2024-08,C-2019,Casco Coast Property Management,Commercial cleaning,4965.00,2407.35,71.25,15
+2024-08-31,2024-08,C-2020,Longfellow Street Rentals,Commercial cleaning,2895.00,1417.80,42.00,9
+2024-08-31,2024-08,C-2021,Peaks Island Rentals,Commercial cleaning,2805.00,1359.95,40.25,8
+2024-08-31,2024-08,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2024-08-31,2024-08,C-2023,Deering Center Family Dental,Commercial cleaning,2050.00,973.25,28.75,5
+2024-08-31,2024-08,R-3001,Priya Natarajan,Handyman,420.00,195.40,2.50,1
+2024-08-31,2024-08,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2024-08-31,2024-08,R-3002,Caleb Thibodeau,Handyman,1355.00,568.60,7.00,3
+2024-08-31,2024-08,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2024-08-31,2024-08,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2024-08-31,2024-08,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2024-08-31,2024-08,R-3006,Beatrix Lindqvist,Residential cleaning,1700.00,765.00,20.00,5
+2024-08-31,2024-08,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2024-08-31,2024-08,R-3010,Imani Washington-Reyes,Handyman,610.00,203.70,2.25,1
+2024-08-31,2024-08,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2024-08-31,2024-08,R-3011,Walter Pelletier,Handyman,495.00,204.40,2.50,1
+2024-08-31,2024-08,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2024-08-31,2024-08,R-3012,Yuki Tanabe-Morrill,Handyman,640.00,221.80,2.50,1
+2024-08-31,2024-08,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1550.00,715.00,18.75,5
+2024-08-31,2024-08,R-3013,Hollis Brannigan,Residential cleaning,1325.00,576.25,15.00,5
+2024-09-30,2024-09,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,68190.00,32913.85,973.75,5
+2024-09-30,2024-09,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2024-09-30,2024-09,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,34500.00,16647.50,492.50,5
+2024-09-30,2024-09,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2024-09-30,2024-09,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2024-09-30,2024-09,C-2007,Brackett Street Lofts Owners Association,Handyman,450.00,184.50,2.25,1
+2024-09-30,2024-09,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2024-09-30,2024-09,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2024-09-30,2024-09,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2024-09-30,2024-09,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2024-09-30,2024-09,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2024-09-30,2024-09,C-2019,Casco Coast Property Management,Commercial cleaning,4160.00,2010.90,59.50,13
+2024-09-30,2024-09,C-2020,Longfellow Street Rentals,Commercial cleaning,2090.00,1021.35,30.25,7
+2024-09-30,2024-09,C-2021,Peaks Island Rentals,Commercial cleaning,2310.00,1123.15,33.25,7
+2024-09-30,2024-09,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2024-09-30,2024-09,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2024-09-30,2024-09,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2024-09-30,2024-09,R-3002,Caleb Thibodeau,Residential cleaning,720.00,316.50,8.25,3
+2024-09-30,2024-09,R-3003,Marguerite Okafor,Handyman,1030.00,370.10,4.25,2
+2024-09-30,2024-09,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2024-09-30,2024-09,R-3004,Ruth Hendricks,Handyman,560.00,183.20,2.00,1
+2024-09-30,2024-09,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2024-09-30,2024-09,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2024-09-30,2024-09,R-3008,Noor Haddad,Handyman,905.00,355.10,4.25,2
+2024-09-30,2024-09,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2024-09-30,2024-09,R-3010,Imani Washington-Reyes,Handyman,495.00,218.90,2.75,1
+2024-09-30,2024-09,R-3010,Imani Washington-Reyes,Residential cleaning,885.00,401.25,10.50,3
+2024-09-30,2024-09,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2024-09-30,2024-09,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2024-09-30,2024-09,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2024-10-31,2024-10,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2024-10-31,2024-10,C-2001,Eastern Promenade Condominium Association,Handyman,1170.00,415.90,4.75,2
+2024-10-31,2024-10,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2024-10-31,2024-10,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2024-10-31,2024-10,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2024-10-31,2024-10,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,13500.00,6507.50,192.50,5
+2024-10-31,2024-10,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,4450.00,2154.25,63.75,5
+2024-10-31,2024-10,C-2009,Ocean Avenue Pediatrics,Handyman,1135.00,440.70,5.25,2
+2024-10-31,2024-10,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2024-10-31,2024-10,C-2013,Deering Oaks Dental Arts,Commercial cleaning,2400.00,1142.25,33.75,5
+2024-10-31,2024-10,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2024-10-31,2024-10,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2024-10-31,2024-10,C-2019,Casco Coast Property Management,Commercial cleaning,2905.00,1410.45,41.75,9
+2024-10-31,2024-10,C-2020,Longfellow Street Rentals,Commercial cleaning,1185.00,582.15,17.25,4
+2024-10-31,2024-10,C-2021,Peaks Island Rentals,Commercial cleaning,1405.00,683.95,20.25,4
+2024-10-31,2024-10,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2024-10-31,2024-10,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2024-10-31,2024-10,R-3001,Priya Natarajan,Handyman,420.00,195.40,2.50,1
+2024-10-31,2024-10,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2024-10-31,2024-10,R-3002,Caleb Thibodeau,Handyman,450.00,199.00,2.50,1
+2024-10-31,2024-10,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2024-10-31,2024-10,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2024-10-31,2024-10,R-3004,Ruth Hendricks,Residential cleaning,960.00,430.50,11.25,3
+2024-10-31,2024-10,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2024-10-31,2024-10,R-3006,Beatrix Lindqvist,Handyman,385.00,191.20,2.50,1
+2024-10-31,2024-10,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2024-10-31,2024-10,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2024-10-31,2024-10,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2024-10-31,2024-10,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2024-10-31,2024-10,R-3012,Yuki Tanabe-Morrill,Handyman,520.00,207.40,2.50,1
+2024-10-31,2024-10,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1550.00,715.00,18.75,5
+2024-10-31,2024-10,R-3013,Hollis Brannigan,Residential cleaning,1325.00,576.25,15.00,5
+2024-11-30,2024-11,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2024-11-30,2024-11,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2024-11-30,2024-11,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2024-11-30,2024-11,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2024-11-30,2024-11,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2024-11-30,2024-11,C-2007,Brackett Street Lofts Owners Association,Handyman,495.00,189.90,2.25,1
+2024-11-30,2024-11,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2024-11-30,2024-11,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2024-11-30,2024-11,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2024-11-30,2024-11,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2024-11-30,2024-11,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2024-11-30,2024-11,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2024-11-30,2024-11,C-2019,Casco Coast Property Management,Commercial cleaning,2230.00,1081.20,32.00,7
+2024-11-30,2024-11,C-2020,Longfellow Street Rentals,Commercial cleaning,1310.00,641.40,19.00,4
+2024-11-30,2024-11,C-2021,Peaks Island Rentals,Commercial cleaning,370.00,177.55,5.25,1
+2024-11-30,2024-11,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2024-11-30,2024-11,C-2023,Deering Center Family Dental,Commercial cleaning,2050.00,973.25,28.75,5
+2024-11-30,2024-11,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2024-11-30,2024-11,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2024-11-30,2024-11,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2024-11-30,2024-11,R-3004,Ruth Hendricks,Handyman,520.00,192.90,2.25,1
+2024-11-30,2024-11,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2024-11-30,2024-11,R-3005,Owen Castellano,Handyman,560.00,212.20,2.50,1
+2024-11-30,2024-11,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2024-11-30,2024-11,R-3006,Beatrix Lindqvist,Handyman,450.00,213.50,2.75,1
+2024-11-30,2024-11,R-3006,Beatrix Lindqvist,Residential cleaning,1700.00,765.00,20.00,5
+2024-11-30,2024-11,R-3008,Noor Haddad,Residential cleaning,840.00,373.50,9.75,3
+2024-11-30,2024-11,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2024-11-30,2024-11,R-3011,Walter Pelletier,Handyman,385.00,191.20,2.50,1
+2024-11-30,2024-11,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2024-11-30,2024-11,R-3012,Yuki Tanabe-Morrill,Handyman,610.00,203.70,2.25,1
+2024-11-30,2024-11,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2024-11-30,2024-11,R-3013,Hollis Brannigan,Handyman,420.00,209.90,2.75,1
+2024-11-30,2024-11,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2024-12-31,2024-12,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,68190.00,32913.85,973.75,5
+2024-12-31,2024-12,C-2001,Eastern Promenade Condominium Association,Handyman,805.00,386.60,5.00,2
+2024-12-31,2024-12,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2024-12-31,2024-12,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,34500.00,16647.50,492.50,5
+2024-12-31,2024-12,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2024-12-31,2024-12,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2024-12-31,2024-12,C-2007,Brackett Street Lofts Owners Association,Handyman,495.00,175.40,2.00,1
+2024-12-31,2024-12,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2024-12-31,2024-12,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2024-12-31,2024-12,C-2012,Fore Street Bistro,Commercial cleaning,3200.00,1561.75,46.25,5
+2024-12-31,2024-12,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2024-12-31,2024-12,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2024-12-31,2024-12,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2024-12-31,2024-12,C-2019,Casco Coast Property Management,Commercial cleaning,1895.00,920.55,27.25,6
+2024-12-31,2024-12,C-2020,Longfellow Street Rentals,Commercial cleaning,1270.00,624.30,18.50,4
+2024-12-31,2024-12,C-2021,Peaks Island Rentals,Commercial cleaning,370.00,177.55,5.25,1
+2024-12-31,2024-12,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2024-12-31,2024-12,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2024-12-31,2024-12,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2024-12-31,2024-12,R-3002,Caleb Thibodeau,Handyman,1580.00,639.10,7.75,3
+2024-12-31,2024-12,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2024-12-31,2024-12,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2024-12-31,2024-12,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2024-12-31,2024-12,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2024-12-31,2024-12,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2024-12-31,2024-12,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2024-12-31,2024-12,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2024-12-31,2024-12,R-3011,Walter Pelletier,Handyman,560.00,226.70,2.75,1
+2024-12-31,2024-12,R-3011,Walter Pelletier,Residential cleaning,690.00,315.00,8.25,3
+2024-12-31,2024-12,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2024-12-31,2024-12,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2025-01-31,2025-01,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2025-01-31,2025-01,C-2001,Eastern Promenade Condominium Association,Handyman,495.00,218.90,2.75,1
+2025-01-31,2025-01,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2025-01-31,2025-01,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2025-01-31,2025-01,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2025-01-31,2025-01,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2025-01-31,2025-01,C-2005,Baxter Woods Condominium Association,Handyman,560.00,226.70,2.75,1
+2025-01-31,2025-01,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,13500.00,6507.50,192.50,5
+2025-01-31,2025-01,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,4450.00,2154.25,63.75,5
+2025-01-31,2025-01,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2025-01-31,2025-01,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2025-01-31,2025-01,C-2013,Deering Oaks Dental Arts,Commercial cleaning,2400.00,1142.25,33.75,5
+2025-01-31,2025-01,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-01-31,2025-01,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-01-31,2025-01,C-2019,Casco Coast Property Management,Commercial cleaning,1935.00,937.65,27.75,6
+2025-01-31,2025-01,C-2020,Longfellow Street Rentals,Commercial cleaning,1545.00,759.30,22.50,5
+2025-01-31,2025-01,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2025-01-31,2025-01,C-2023,Deering Center Family Dental,Commercial cleaning,2050.00,973.25,28.75,5
+2025-01-31,2025-01,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2025-01-31,2025-01,R-3002,Caleb Thibodeau,Handyman,610.00,218.20,2.50,1
+2025-01-31,2025-01,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2025-01-31,2025-01,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2025-01-31,2025-01,R-3004,Ruth Hendricks,Handyman,1015.00,411.80,5.00,2
+2025-01-31,2025-01,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2025-01-31,2025-01,R-3005,Owen Castellano,Handyman,520.00,236.40,3.00,1
+2025-01-31,2025-01,R-3005,Owen Castellano,Residential cleaning,660.00,288.00,7.50,3
+2025-01-31,2025-01,R-3006,Beatrix Lindqvist,Handyman,640.00,207.30,2.25,1
+2025-01-31,2025-01,R-3006,Beatrix Lindqvist,Residential cleaning,1700.00,765.00,20.00,5
+2025-01-31,2025-01,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2025-01-31,2025-01,R-3010,Imani Washington-Reyes,Handyman,420.00,195.40,2.50,1
+2025-01-31,2025-01,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2025-01-31,2025-01,R-3011,Walter Pelletier,Handyman,450.00,199.00,2.50,1
+2025-01-31,2025-01,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2025-01-31,2025-01,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1550.00,715.00,18.75,5
+2025-01-31,2025-01,R-3013,Hollis Brannigan,Handyman,385.00,205.70,2.75,1
+2025-01-31,2025-01,R-3013,Hollis Brannigan,Residential cleaning,1325.00,576.25,15.00,5
+2025-02-28,2025-02,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2025-02-28,2025-02,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2025-02-28,2025-02,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2025-02-28,2025-02,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2025-02-28,2025-02,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2025-02-28,2025-02,C-2005,Baxter Woods Condominium Association,Handyman,520.00,207.40,2.50,1
+2025-02-28,2025-02,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2025-02-28,2025-02,C-2007,Brackett Street Lofts Owners Association,Handyman,1655.00,662.60,8.00,3
+2025-02-28,2025-02,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2025-02-28,2025-02,C-2009,Ocean Avenue Pediatrics,Handyman,495.00,189.90,2.25,1
+2025-02-28,2025-02,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2025-02-28,2025-02,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2025-02-28,2025-02,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2025-02-28,2025-02,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-02-28,2025-02,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-02-28,2025-02,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-02-28,2025-02,C-2019,Casco Coast Property Management,Commercial cleaning,1940.00,945.60,28.00,6
+2025-02-28,2025-02,C-2020,Longfellow Street Rentals,Commercial cleaning,590.00,287.10,8.50,2
+2025-02-28,2025-02,C-2021,Peaks Island Rentals,Commercial cleaning,700.00,338.00,10.00,2
+2025-02-28,2025-02,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2025-02-28,2025-02,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2025-02-28,2025-02,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2025-02-28,2025-02,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2025-02-28,2025-02,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2025-02-28,2025-02,R-3004,Ruth Hendricks,Handyman,450.00,199.00,2.50,1
+2025-02-28,2025-02,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2025-02-28,2025-02,R-3005,Owen Castellano,Handyman,385.00,176.70,2.25,1
+2025-02-28,2025-02,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2025-02-28,2025-02,R-3006,Beatrix Lindqvist,Handyman,450.00,184.50,2.25,1
+2025-02-28,2025-02,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2025-02-28,2025-02,R-3007,Samuel Agyemang,Handyman,610.00,203.70,2.25,1
+2025-02-28,2025-02,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2025-02-28,2025-02,R-3008,Noor Haddad,Handyman,560.00,226.70,2.75,1
+2025-02-28,2025-02,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2025-02-28,2025-02,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2025-02-28,2025-02,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2025-02-28,2025-02,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2025-02-28,2025-02,R-3013,Hollis Brannigan,Handyman,420.00,195.40,2.50,1
+2025-02-28,2025-02,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2025-03-31,2025-03,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,68190.00,32913.85,973.75,5
+2025-03-31,2025-03,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2025-03-31,2025-03,C-2002,Stroudwater Commons Condominium Trust,Handyman,640.00,221.80,2.50,1
+2025-03-31,2025-03,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,34500.00,16647.50,492.50,5
+2025-03-31,2025-03,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2025-03-31,2025-03,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2025-03-31,2025-03,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2025-03-31,2025-03,C-2007,Brackett Street Lofts Owners Association,Handyman,420.00,224.40,3.00,1
+2025-03-31,2025-03,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2025-03-31,2025-03,C-2008,Tidal Flats Coworking,Handyman,495.00,189.90,2.25,1
+2025-03-31,2025-03,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2025-03-31,2025-03,C-2009,Ocean Avenue Pediatrics,Handyman,1105.00,422.60,5.00,2
+2025-03-31,2025-03,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2025-03-31,2025-03,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2025-03-31,2025-03,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2025-03-31,2025-03,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-03-31,2025-03,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-03-31,2025-03,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-03-31,2025-03,C-2019,Casco Coast Property Management,Commercial cleaning,2565.00,1241.85,36.75,8
+2025-03-31,2025-03,C-2020,Longfellow Street Rentals,Commercial cleaning,825.00,405.00,12.00,3
+2025-03-31,2025-03,C-2021,Peaks Island Rentals,Commercial cleaning,660.00,320.90,9.50,2
+2025-03-31,2025-03,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2025-03-31,2025-03,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2025-03-31,2025-03,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2025-03-31,2025-03,R-3002,Caleb Thibodeau,Residential cleaning,720.00,316.50,8.25,3
+2025-03-31,2025-03,R-3003,Marguerite Okafor,Handyman,560.00,241.20,3.00,1
+2025-03-31,2025-03,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2025-03-31,2025-03,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2025-03-31,2025-03,R-3005,Owen Castellano,Handyman,520.00,236.40,3.00,1
+2025-03-31,2025-03,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2025-03-31,2025-03,R-3006,Beatrix Lindqvist,Handyman,385.00,191.20,2.50,1
+2025-03-31,2025-03,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2025-03-31,2025-03,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2025-03-31,2025-03,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2025-03-31,2025-03,R-3010,Imani Washington-Reyes,Handyman,450.00,199.00,2.50,1
+2025-03-31,2025-03,R-3010,Imani Washington-Reyes,Residential cleaning,885.00,401.25,10.50,3
+2025-03-31,2025-03,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2025-03-31,2025-03,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2025-03-31,2025-03,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2025-04-30,2025-04,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2025-04-30,2025-04,C-2001,Eastern Promenade Condominium Association,Handyman,560.00,241.20,3.00,1
+2025-04-30,2025-04,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2025-04-30,2025-04,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2025-04-30,2025-04,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2025-04-30,2025-04,C-2005,Baxter Woods Condominium Association,Commercial cleaning,19000.00,9168.75,271.25,5
+2025-04-30,2025-04,C-2005,Baxter Woods Condominium Association,Handyman,835.00,404.70,5.25,2
+2025-04-30,2025-04,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2025-04-30,2025-04,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2025-04-30,2025-04,C-2008,Tidal Flats Coworking,Handyman,1130.00,411.10,4.75,2
+2025-04-30,2025-04,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,4450.00,2154.25,63.75,5
+2025-04-30,2025-04,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2025-04-30,2025-04,C-2012,Fore Street Bistro,Commercial cleaning,3200.00,1561.75,46.25,5
+2025-04-30,2025-04,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2025-04-30,2025-04,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-04-30,2025-04,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-04-30,2025-04,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-04-30,2025-04,C-2019,Casco Coast Property Management,Commercial cleaning,2275.00,1106.25,32.75,7
+2025-04-30,2025-04,C-2020,Longfellow Street Rentals,Commercial cleaning,2070.00,1012.80,30.00,6
+2025-04-30,2025-04,C-2021,Peaks Island Rentals,Commercial cleaning,785.00,380.15,11.25,2
+2025-04-30,2025-04,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2025-04-30,2025-04,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2025-04-30,2025-04,R-3001,Priya Natarajan,Handyman,420.00,224.40,3.00,1
+2025-04-30,2025-04,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2025-04-30,2025-04,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2025-04-30,2025-04,R-3003,Marguerite Okafor,Handyman,1055.00,445.60,5.50,2
+2025-04-30,2025-04,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2025-04-30,2025-04,R-3004,Ruth Hendricks,Handyman,495.00,218.90,2.75,1
+2025-04-30,2025-04,R-3004,Ruth Hendricks,Residential cleaning,960.00,430.50,11.25,3
+2025-04-30,2025-04,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2025-04-30,2025-04,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2025-04-30,2025-04,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2025-04-30,2025-04,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2025-04-30,2025-04,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2025-04-30,2025-04,R-3011,Walter Pelletier,Handyman,450.00,184.50,2.25,1
+2025-04-30,2025-04,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2025-04-30,2025-04,R-3012,Yuki Tanabe-Morrill,Handyman,1160.00,429.20,5.00,2
+2025-04-30,2025-04,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2025-04-30,2025-04,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2025-05-31,2025-05,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2025-05-31,2025-05,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2025-05-31,2025-05,C-2002,Stroudwater Commons Condominium Trust,Handyman,1010.00,396.70,4.75,2
+2025-05-31,2025-05,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2025-05-31,2025-05,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2025-05-31,2025-05,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2025-05-31,2025-05,C-2005,Baxter Woods Condominium Association,Handyman,610.00,203.70,2.25,1
+2025-05-31,2025-05,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,13500.00,6507.50,192.50,5
+2025-05-31,2025-05,C-2007,Brackett Street Lofts Owners Association,Handyman,1015.00,426.30,5.25,2
+2025-05-31,2025-05,C-2008,Tidal Flats Coworking,Commercial cleaning,12000.00,5788.75,171.25,5
+2025-05-31,2025-05,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2025-05-31,2025-05,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2025-05-31,2025-05,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2025-05-31,2025-05,C-2013,Deering Oaks Dental Arts,Commercial cleaning,2400.00,1142.25,33.75,5
+2025-05-31,2025-05,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2025-05-31,2025-05,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-05-31,2025-05,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-05-31,2025-05,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-05-31,2025-05,C-2019,Casco Coast Property Management,Commercial cleaning,3495.00,1697.55,50.25,11
+2025-05-31,2025-05,C-2020,Longfellow Street Rentals,Commercial cleaning,2180.00,1071.45,31.75,7
+2025-05-31,2025-05,C-2021,Peaks Island Rentals,Commercial cleaning,1770.00,853.55,25.25,5
+2025-05-31,2025-05,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2025-05-31,2025-05,C-2023,Deering Center Family Dental,Commercial cleaning,2050.00,973.25,28.75,5
+2025-05-31,2025-05,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2025-05-31,2025-05,R-3002,Caleb Thibodeau,Handyman,495.00,218.90,2.75,1
+2025-05-31,2025-05,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2025-05-31,2025-05,R-3003,Marguerite Okafor,Handyman,520.00,236.40,3.00,1
+2025-05-31,2025-05,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2025-05-31,2025-05,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2025-05-31,2025-05,R-3005,Owen Castellano,Handyman,640.00,221.80,2.50,1
+2025-05-31,2025-05,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2025-05-31,2025-05,R-3006,Beatrix Lindqvist,Residential cleaning,1700.00,765.00,20.00,5
+2025-05-31,2025-05,R-3007,Samuel Agyemang,Handyman,450.00,199.00,2.50,1
+2025-05-31,2025-05,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2025-05-31,2025-05,R-3008,Noor Haddad,Residential cleaning,840.00,373.50,9.75,3
+2025-05-31,2025-05,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2025-05-31,2025-05,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2025-05-31,2025-05,R-3012,Yuki Tanabe-Morrill,Handyman,385.00,176.70,2.25,1
+2025-05-31,2025-05,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1550.00,715.00,18.75,5
+2025-05-31,2025-05,R-3013,Hollis Brannigan,Handyman,420.00,195.40,2.50,1
+2025-05-31,2025-05,R-3013,Hollis Brannigan,Residential cleaning,1325.00,576.25,15.00,5
+2025-06-30,2025-06,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,68190.00,32913.85,973.75,5
+2025-06-30,2025-06,C-2001,Eastern Promenade Condominium Association,Handyman,560.00,226.70,2.75,1
+2025-06-30,2025-06,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2025-06-30,2025-06,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,34500.00,16647.50,492.50,5
+2025-06-30,2025-06,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2025-06-30,2025-06,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2025-06-30,2025-06,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2025-06-30,2025-06,C-2007,Brackett Street Lofts Owners Association,Handyman,640.00,221.80,2.50,1
+2025-06-30,2025-06,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2025-06-30,2025-06,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2025-06-30,2025-06,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2025-06-30,2025-06,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2025-06-30,2025-06,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2025-06-30,2025-06,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2025-06-30,2025-06,C-2014,Back Cove Bakery,Handyman,385.00,191.20,2.50,1
+2025-06-30,2025-06,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-06-30,2025-06,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-06-30,2025-06,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-06-30,2025-06,C-2019,Casco Coast Property Management,Commercial cleaning,4510.00,2195.40,65.00,14
+2025-06-30,2025-06,C-2020,Longfellow Street Rentals,Commercial cleaning,2815.00,1383.60,41.00,9
+2025-06-30,2025-06,C-2021,Peaks Island Rentals,Commercial cleaning,2885.00,1394.15,41.25,8
+2025-06-30,2025-06,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2025-06-30,2025-06,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2025-06-30,2025-06,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2025-06-30,2025-06,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2025-06-30,2025-06,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2025-06-30,2025-06,R-3004,Ruth Hendricks,Handyman,970.00,435.40,5.50,2
+2025-06-30,2025-06,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2025-06-30,2025-06,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2025-06-30,2025-06,R-3006,Beatrix Lindqvist,Handyman,420.00,238.90,3.25,1
+2025-06-30,2025-06,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2025-06-30,2025-06,R-3007,Samuel Agyemang,Handyman,980.00,436.60,5.50,2
+2025-06-30,2025-06,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2025-06-30,2025-06,R-3008,Noor Haddad,Handyman,495.00,204.40,2.50,1
+2025-06-30,2025-06,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2025-06-30,2025-06,R-3009,Theo Bergstrom,Residential cleaning,1100.00,497.00,13.00,4
+2025-06-30,2025-06,R-3010,Imani Washington-Reyes,Handyman,520.00,236.40,3.00,1
+2025-06-30,2025-06,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2025-06-30,2025-06,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2025-06-30,2025-06,R-3012,Yuki Tanabe-Morrill,Handyman,1105.00,451.60,5.50,2
+2025-06-30,2025-06,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2025-06-30,2025-06,R-3013,Hollis Brannigan,Handyman,450.00,199.00,2.50,1
+2025-06-30,2025-06,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2025-07-31,2025-07,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2025-07-31,2025-07,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2025-07-31,2025-07,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2025-07-31,2025-07,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2025-07-31,2025-07,C-2005,Baxter Woods Condominium Association,Commercial cleaning,19000.00,9168.75,271.25,5
+2025-07-31,2025-07,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,13500.00,6507.50,192.50,5
+2025-07-31,2025-07,C-2007,Brackett Street Lofts Owners Association,Handyman,520.00,192.90,2.25,1
+2025-07-31,2025-07,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2025-07-31,2025-07,C-2008,Tidal Flats Coworking,Handyman,640.00,236.30,2.75,1
+2025-07-31,2025-07,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,4450.00,2154.25,63.75,5
+2025-07-31,2025-07,C-2009,Ocean Avenue Pediatrics,Handyman,980.00,436.60,5.50,2
+2025-07-31,2025-07,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2025-07-31,2025-07,C-2012,Fore Street Bistro,Commercial cleaning,3200.00,1561.75,46.25,5
+2025-07-31,2025-07,C-2013,Deering Oaks Dental Arts,Commercial cleaning,2400.00,1142.25,33.75,5
+2025-07-31,2025-07,C-2014,Back Cove Bakery,Commercial cleaning,2100.00,1014.00,30.00,5
+2025-07-31,2025-07,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-07-31,2025-07,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-07-31,2025-07,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-07-31,2025-07,C-2019,Casco Coast Property Management,Commercial cleaning,5090.00,2466.60,73.00,16
+2025-07-31,2025-07,C-2020,Longfellow Street Rentals,Commercial cleaning,2810.00,1375.65,40.75,9
+2025-07-31,2025-07,C-2021,Peaks Island Rentals,Commercial cleaning,3220.00,1562.55,46.25,9
+2025-07-31,2025-07,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2025-07-31,2025-07,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2025-07-31,2025-07,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2025-07-31,2025-07,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2025-07-31,2025-07,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2025-07-31,2025-07,R-3004,Ruth Hendricks,Handyman,610.00,232.70,2.75,1
+2025-07-31,2025-07,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2025-07-31,2025-07,R-3005,Owen Castellano,Handyman,1055.00,445.60,5.50,2
+2025-07-31,2025-07,R-3005,Owen Castellano,Residential cleaning,660.00,288.00,7.50,3
+2025-07-31,2025-07,R-3006,Beatrix Lindqvist,Handyman,1060.00,417.20,5.00,2
+2025-07-31,2025-07,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2025-07-31,2025-07,R-3007,Samuel Agyemang,Handyman,420.00,195.40,2.50,1
+2025-07-31,2025-07,R-3007,Samuel Agyemang,Residential cleaning,750.00,343.50,9.00,3
+2025-07-31,2025-07,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2025-07-31,2025-07,R-3009,Theo Bergstrom,Handyman,385.00,176.70,2.25,1
+2025-07-31,2025-07,R-3009,Theo Bergstrom,Residential cleaning,1375.00,621.25,16.25,5
+2025-07-31,2025-07,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2025-07-31,2025-07,R-3011,Walter Pelletier,Handyman,495.00,189.90,2.25,1
+2025-07-31,2025-07,R-3011,Walter Pelletier,Residential cleaning,690.00,315.00,8.25,3
+2025-07-31,2025-07,R-3012,Yuki Tanabe-Morrill,Handyman,520.00,221.90,2.75,1
+2025-07-31,2025-07,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1550.00,715.00,18.75,5
+2025-07-31,2025-07,R-3013,Hollis Brannigan,Handyman,450.00,228.00,3.00,1
+2025-07-31,2025-07,R-3013,Hollis Brannigan,Residential cleaning,1325.00,576.25,15.00,5
+2025-08-31,2025-08,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2025-08-31,2025-08,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2025-08-31,2025-08,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2025-08-31,2025-08,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2025-08-31,2025-08,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2025-08-31,2025-08,C-2005,Baxter Woods Condominium Association,Handyman,905.00,456.60,6.00,2
+2025-08-31,2025-08,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2025-08-31,2025-08,C-2007,Brackett Street Lofts Owners Association,Handyman,450.00,199.00,2.50,1
+2025-08-31,2025-08,C-2008,Tidal Flats Coworking,Commercial cleaning,12000.00,5788.75,171.25,5
+2025-08-31,2025-08,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2025-08-31,2025-08,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2025-08-31,2025-08,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2025-08-31,2025-08,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2025-08-31,2025-08,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2025-08-31,2025-08,C-2014,Back Cove Bakery,Handyman,420.00,209.90,2.75,1
+2025-08-31,2025-08,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-08-31,2025-08,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-08-31,2025-08,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-08-31,2025-08,C-2019,Casco Coast Property Management,Commercial cleaning,4210.00,2043.90,60.50,13
+2025-08-31,2025-08,C-2020,Longfellow Street Rentals,Commercial cleaning,2455.00,1206.45,35.75,8
+2025-08-31,2025-08,C-2021,Peaks Island Rentals,Commercial cleaning,2850.00,1385.00,41.00,8
+2025-08-31,2025-08,C-2022,Park Street Yoga Loft,Commercial cleaning,380.00,185.70,5.50,2
+2025-08-31,2025-08,C-2023,Deering Center Family Dental,Commercial cleaning,2050.00,973.25,28.75,5
+2025-08-31,2025-08,R-3001,Priya Natarajan,Handyman,1435.00,650.70,8.25,3
+2025-08-31,2025-08,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2025-08-31,2025-08,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2025-08-31,2025-08,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2025-08-31,2025-08,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2025-08-31,2025-08,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2025-08-31,2025-08,R-3006,Beatrix Lindqvist,Handyman,1060.00,431.70,5.25,2
+2025-08-31,2025-08,R-3006,Beatrix Lindqvist,Residential cleaning,1700.00,765.00,20.00,5
+2025-08-31,2025-08,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2025-08-31,2025-08,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2025-08-31,2025-08,R-3009,Theo Bergstrom,Handyman,560.00,197.70,2.25,1
+2025-08-31,2025-08,R-3009,Theo Bergstrom,Residential cleaning,1100.00,497.00,13.00,4
+2025-08-31,2025-08,R-3010,Imani Washington-Reyes,Handyman,610.00,232.70,2.75,1
+2025-08-31,2025-08,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2025-08-31,2025-08,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2025-08-31,2025-08,R-3012,Yuki Tanabe-Morrill,Handyman,640.00,250.80,3.00,1
+2025-08-31,2025-08,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2025-08-31,2025-08,R-3013,Hollis Brannigan,Handyman,1055.00,445.60,5.50,2
+2025-08-31,2025-08,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2025-09-30,2025-09,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,68190.00,32913.85,973.75,5
+2025-09-30,2025-09,C-2001,Eastern Promenade Condominium Association,Handyman,520.00,236.40,3.00,1
+2025-09-30,2025-09,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2025-09-30,2025-09,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,34500.00,16647.50,492.50,5
+2025-09-30,2025-09,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2025-09-30,2025-09,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2025-09-30,2025-09,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2025-09-30,2025-09,C-2007,Brackett Street Lofts Owners Association,Handyman,880.00,424.60,5.50,2
+2025-09-30,2025-09,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2025-09-30,2025-09,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2025-09-30,2025-09,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2025-09-30,2025-09,C-2012,Fore Street Bistro,Commercial cleaning,3200.00,1561.75,46.25,5
+2025-09-30,2025-09,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2025-09-30,2025-09,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2025-09-30,2025-09,C-2014,Back Cove Bakery,Handyman,610.00,261.70,3.25,1
+2025-09-30,2025-09,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-09-30,2025-09,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-09-30,2025-09,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-09-30,2025-09,C-2019,Casco Coast Property Management,Commercial cleaning,3665.00,1781.85,52.75,12
+2025-09-30,2025-09,C-2020,Longfellow Street Rentals,Commercial cleaning,1770.00,861.30,25.50,6
+2025-09-30,2025-09,C-2021,Peaks Island Rentals,Commercial cleaning,2395.00,1165.30,34.50,7
+2025-09-30,2025-09,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2025-09-30,2025-09,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2025-09-30,2025-09,R-3002,Caleb Thibodeau,Handyman,520.00,192.90,2.25,1
+2025-09-30,2025-09,R-3002,Caleb Thibodeau,Residential cleaning,720.00,316.50,8.25,3
+2025-09-30,2025-09,R-3003,Marguerite Okafor,Handyman,870.00,394.40,5.00,2
+2025-09-30,2025-09,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2025-09-30,2025-09,R-3004,Ruth Hendricks,Residential cleaning,960.00,430.50,11.25,3
+2025-09-30,2025-09,R-3005,Owen Castellano,Handyman,420.00,238.90,3.25,1
+2025-09-30,2025-09,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2025-09-30,2025-09,R-3006,Beatrix Lindqvist,Handyman,610.00,261.70,3.25,1
+2025-09-30,2025-09,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2025-09-30,2025-09,R-3007,Samuel Agyemang,Handyman,450.00,228.00,3.00,1
+2025-09-30,2025-09,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2025-09-30,2025-09,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2025-09-30,2025-09,R-3009,Theo Bergstrom,Handyman,560.00,255.70,3.25,1
+2025-09-30,2025-09,R-3009,Theo Bergstrom,Residential cleaning,1375.00,621.25,16.25,5
+2025-09-30,2025-09,R-3010,Imani Washington-Reyes,Residential cleaning,885.00,401.25,10.50,3
+2025-09-30,2025-09,R-3011,Walter Pelletier,Handyman,1200.00,463.00,5.50,2
+2025-09-30,2025-09,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2025-09-30,2025-09,R-3012,Yuki Tanabe-Morrill,Handyman,495.00,247.90,3.25,1
+2025-09-30,2025-09,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2025-09-30,2025-09,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2025-10-31,2025-10,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2025-10-31,2025-10,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2025-10-31,2025-10,C-2002,Stroudwater Commons Condominium Trust,Handyman,560.00,226.70,2.75,1
+2025-10-31,2025-10,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2025-10-31,2025-10,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2025-10-31,2025-10,C-2005,Baxter Woods Condominium Association,Commercial cleaning,19000.00,9168.75,271.25,5
+2025-10-31,2025-10,C-2005,Baxter Woods Condominium Association,Handyman,450.00,228.00,3.00,1
+2025-10-31,2025-10,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,13500.00,6507.50,192.50,5
+2025-10-31,2025-10,C-2008,Tidal Flats Coworking,Commercial cleaning,12000.00,5788.75,171.25,5
+2025-10-31,2025-10,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,4450.00,2154.25,63.75,5
+2025-10-31,2025-10,C-2009,Ocean Avenue Pediatrics,Handyman,940.00,431.80,5.50,2
+2025-10-31,2025-10,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2025-10-31,2025-10,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2025-10-31,2025-10,C-2013,Deering Oaks Dental Arts,Commercial cleaning,2400.00,1142.25,33.75,5
+2025-10-31,2025-10,C-2014,Back Cove Bakery,Commercial cleaning,2100.00,1014.00,30.00,5
+2025-10-31,2025-10,C-2014,Back Cove Bakery,Handyman,610.00,276.20,3.50,1
+2025-10-31,2025-10,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-10-31,2025-10,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-10-31,2025-10,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-10-31,2025-10,C-2019,Casco Coast Property Management,Commercial cleaning,2700.00,1317.00,39.00,8
+2025-10-31,2025-10,C-2020,Longfellow Street Rentals,Commercial cleaning,1495.00,726.30,21.50,5
+2025-10-31,2025-10,C-2021,Peaks Island Rentals,Commercial cleaning,1485.00,718.15,21.25,4
+2025-10-31,2025-10,C-2023,Deering Center Family Dental,Commercial cleaning,2050.00,973.25,28.75,5
+2025-10-31,2025-10,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2025-10-31,2025-10,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2025-10-31,2025-10,R-3003,Marguerite Okafor,Handyman,385.00,220.20,3.00,1
+2025-10-31,2025-10,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2025-10-31,2025-10,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2025-10-31,2025-10,R-3005,Owen Castellano,Handyman,1465.00,668.80,8.50,3
+2025-10-31,2025-10,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2025-10-31,2025-10,R-3006,Beatrix Lindqvist,Handyman,560.00,241.20,3.00,1
+2025-10-31,2025-10,R-3006,Beatrix Lindqvist,Residential cleaning,1700.00,765.00,20.00,5
+2025-10-31,2025-10,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2025-10-31,2025-10,R-3008,Noor Haddad,Residential cleaning,840.00,373.50,9.75,3
+2025-10-31,2025-10,R-3009,Theo Bergstrom,Residential cleaning,1100.00,497.00,13.00,4
+2025-10-31,2025-10,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2025-10-31,2025-10,R-3011,Walter Pelletier,Handyman,1135.00,440.70,5.25,2
+2025-10-31,2025-10,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2025-10-31,2025-10,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1550.00,715.00,18.75,5
+2025-10-31,2025-10,R-3013,Hollis Brannigan,Residential cleaning,1325.00,576.25,15.00,5
+2025-11-30,2025-11,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,54552.00,26331.08,779.00,4
+2025-11-30,2025-11,C-2001,Eastern Promenade Condominium Association,Handyman,385.00,191.20,2.50,1
+2025-11-30,2025-11,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2025-11-30,2025-11,C-2002,Stroudwater Commons Condominium Trust,Handyman,990.00,495.80,6.50,2
+2025-11-30,2025-11,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2025-11-30,2025-11,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2025-11-30,2025-11,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2025-11-30,2025-11,C-2005,Baxter Woods Condominium Association,Handyman,385.00,220.20,3.00,1
+2025-11-30,2025-11,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2025-11-30,2025-11,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2025-11-30,2025-11,C-2008,Tidal Flats Coworking,Handyman,980.00,451.10,5.75,2
+2025-11-30,2025-11,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2025-11-30,2025-11,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2025-11-30,2025-11,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2025-11-30,2025-11,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2025-11-30,2025-11,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2025-11-30,2025-11,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-11-30,2025-11,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-11-30,2025-11,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-11-30,2025-11,C-2019,Casco Coast Property Management,Commercial cleaning,2315.00,1123.35,33.25,7
+2025-11-30,2025-11,C-2020,Longfellow Street Rentals,Commercial cleaning,1500.00,734.25,21.75,5
+2025-11-30,2025-11,C-2021,Peaks Island Rentals,Commercial cleaning,330.00,160.45,4.75,1
+2025-11-30,2025-11,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2025-11-30,2025-11,R-3001,Priya Natarajan,Handyman,1030.00,442.60,5.50,2
+2025-11-30,2025-11,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2025-11-30,2025-11,R-3002,Caleb Thibodeau,Handyman,1010.00,454.70,5.75,2
+2025-11-30,2025-11,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2025-11-30,2025-11,R-3003,Marguerite Okafor,Handyman,450.00,242.50,3.25,1
+2025-11-30,2025-11,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2025-11-30,2025-11,R-3004,Ruth Hendricks,Handyman,610.00,247.20,3.00,1
+2025-11-30,2025-11,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2025-11-30,2025-11,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2025-11-30,2025-11,R-3006,Beatrix Lindqvist,Handyman,520.00,265.40,3.50,1
+2025-11-30,2025-11,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2025-11-30,2025-11,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2025-11-30,2025-11,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2025-11-30,2025-11,R-3009,Theo Bergstrom,Handyman,640.00,265.30,3.25,1
+2025-11-30,2025-11,R-3009,Theo Bergstrom,Residential cleaning,1100.00,497.00,13.00,4
+2025-11-30,2025-11,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2025-11-30,2025-11,R-3011,Walter Pelletier,Handyman,520.00,221.90,2.75,1
+2025-11-30,2025-11,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2025-11-30,2025-11,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2025-11-30,2025-11,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2025-12-31,2025-12,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,68190.00,32913.85,973.75,5
+2025-12-31,2025-12,C-2001,Eastern Promenade Condominium Association,Handyman,495.00,247.90,3.25,1
+2025-12-31,2025-12,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2025-12-31,2025-12,C-2002,Stroudwater Commons Condominium Trust,Handyman,385.00,249.20,3.50,1
+2025-12-31,2025-12,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,34500.00,16647.50,492.50,5
+2025-12-31,2025-12,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2025-12-31,2025-12,C-2005,Baxter Woods Condominium Association,Commercial cleaning,19000.00,9168.75,271.25,5
+2025-12-31,2025-12,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2025-12-31,2025-12,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2025-12-31,2025-12,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,4450.00,2154.25,63.75,5
+2025-12-31,2025-12,C-2009,Ocean Avenue Pediatrics,Handyman,1170.00,502.90,6.25,2
+2025-12-31,2025-12,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2025-12-31,2025-12,C-2012,Fore Street Bistro,Commercial cleaning,3200.00,1561.75,46.25,5
+2025-12-31,2025-12,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2025-12-31,2025-12,C-2014,Back Cove Bakery,Commercial cleaning,2100.00,1014.00,30.00,5
+2025-12-31,2025-12,C-2014,Back Cove Bakery,Handyman,420.00,224.40,3.00,1
+2025-12-31,2025-12,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2025-12-31,2025-12,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2025-12-31,2025-12,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2025-12-31,2025-12,C-2019,Casco Coast Property Management,Commercial cleaning,1855.00,903.45,26.75,6
+2025-12-31,2025-12,C-2020,Longfellow Street Rentals,Commercial cleaning,1140.00,557.10,16.50,4
+2025-12-31,2025-12,C-2021,Peaks Island Rentals,Commercial cleaning,330.00,160.45,4.75,1
+2025-12-31,2025-12,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2025-12-31,2025-12,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2025-12-31,2025-12,R-3002,Caleb Thibodeau,Handyman,420.00,224.40,3.00,1
+2025-12-31,2025-12,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2025-12-31,2025-12,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2025-12-31,2025-12,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2025-12-31,2025-12,R-3005,Owen Castellano,Handyman,1090.00,493.30,6.25,2
+2025-12-31,2025-12,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2025-12-31,2025-12,R-3006,Beatrix Lindqvist,Handyman,495.00,247.90,3.25,1
+2025-12-31,2025-12,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2025-12-31,2025-12,R-3007,Samuel Agyemang,Handyman,450.00,242.50,3.25,1
+2025-12-31,2025-12,R-3007,Samuel Agyemang,Residential cleaning,750.00,343.50,9.00,3
+2025-12-31,2025-12,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2025-12-31,2025-12,R-3009,Theo Bergstrom,Handyman,520.00,236.40,3.00,1
+2025-12-31,2025-12,R-3009,Theo Bergstrom,Residential cleaning,1375.00,621.25,16.25,5
+2025-12-31,2025-12,R-3010,Imani Washington-Reyes,Handyman,560.00,212.20,2.50,1
+2025-12-31,2025-12,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2025-12-31,2025-12,R-3011,Walter Pelletier,Residential cleaning,690.00,315.00,8.25,3
+2025-12-31,2025-12,R-3012,Yuki Tanabe-Morrill,Handyman,520.00,265.40,3.50,1
+2025-12-31,2025-12,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2025-12-31,2025-12,R-3013,Hollis Brannigan,Residential cleaning,1060.00,461.00,12.00,4
+2026-01-31,2026-01,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,69940.00,33766.60,999.00,4
+2026-01-31,2026-01,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2026-01-31,2026-01,C-2002,Stroudwater Commons Condominium Trust,Handyman,560.00,270.20,3.50,1
+2026-01-31,2026-01,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2026-01-31,2026-01,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2026-01-31,2026-01,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2026-01-31,2026-01,C-2005,Baxter Woods Condominium Association,Handyman,560.00,270.20,3.50,1
+2026-01-31,2026-01,C-2006,Marginal Way Medical Suites,Commercial cleaning,12400.00,5983.00,177.00,4
+2026-01-31,2026-01,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,13500.00,6507.50,192.50,5
+2026-01-31,2026-01,C-2007,Brackett Street Lofts Owners Association,Handyman,940.00,446.30,5.75,2
+2026-01-31,2026-01,C-2008,Tidal Flats Coworking,Commercial cleaning,12000.00,5788.75,171.25,5
+2026-01-31,2026-01,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2026-01-31,2026-01,C-2009,Ocean Avenue Pediatrics,Handyman,610.00,276.20,3.50,1
+2026-01-31,2026-01,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2026-01-31,2026-01,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2026-01-31,2026-01,C-2013,Deering Oaks Dental Arts,Commercial cleaning,2400.00,1142.25,33.75,5
+2026-01-31,2026-01,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2026-01-31,2026-01,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2026-01-31,2026-01,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2026-01-31,2026-01,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2026-01-31,2026-01,C-2019,Casco Coast Property Management,Commercial cleaning,1515.00,734.85,21.75,5
+2026-01-31,2026-01,C-2020,Longfellow Street Rentals,Commercial cleaning,1580.00,768.45,22.75,5
+2026-01-31,2026-01,C-2021,Peaks Island Rentals,Commercial cleaning,660.00,320.90,9.50,2
+2026-01-31,2026-01,C-2023,Deering Center Family Dental,Commercial cleaning,2050.00,973.25,28.75,5
+2026-01-31,2026-01,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2026-01-31,2026-01,R-3002,Caleb Thibodeau,Handyman,945.00,504.90,6.75,2
+2026-01-31,2026-01,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2026-01-31,2026-01,R-3003,Marguerite Okafor,Handyman,1015.00,469.80,6.00,2
+2026-01-31,2026-01,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2026-01-31,2026-01,R-3004,Ruth Hendricks,Handyman,420.00,253.40,3.50,1
+2026-01-31,2026-01,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2026-01-31,2026-01,R-3005,Owen Castellano,Handyman,450.00,257.00,3.50,1
+2026-01-31,2026-01,R-3005,Owen Castellano,Residential cleaning,660.00,288.00,7.50,3
+2026-01-31,2026-01,R-3006,Beatrix Lindqvist,Residential cleaning,1700.00,765.00,20.00,5
+2026-01-31,2026-01,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2026-01-31,2026-01,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2026-01-31,2026-01,R-3009,Theo Bergstrom,Residential cleaning,1100.00,497.00,13.00,4
+2026-01-31,2026-01,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2026-01-31,2026-01,R-3011,Walter Pelletier,Handyman,385.00,249.20,3.50,1
+2026-01-31,2026-01,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2026-01-31,2026-01,R-3012,Yuki Tanabe-Morrill,Handyman,1250.00,469.00,5.50,2
+2026-01-31,2026-01,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1550.00,715.00,18.75,5
+2026-02-28,2026-02,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,69940.00,33766.60,999.00,4
+2026-02-28,2026-02,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2026-02-28,2026-02,C-2002,Stroudwater Commons Condominium Trust,Handyman,450.00,242.50,3.25,1
+2026-02-28,2026-02,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2026-02-28,2026-02,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2026-02-28,2026-02,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2026-02-28,2026-02,C-2006,Marginal Way Medical Suites,Commercial cleaning,12400.00,5983.00,177.00,4
+2026-02-28,2026-02,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2026-02-28,2026-02,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2026-02-28,2026-02,C-2008,Tidal Flats Coworking,Handyman,1250.00,498.00,6.00,2
+2026-02-28,2026-02,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2026-02-28,2026-02,C-2009,Ocean Avenue Pediatrics,Handyman,495.00,233.40,3.00,1
+2026-02-28,2026-02,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2026-02-28,2026-02,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2026-02-28,2026-02,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2026-02-28,2026-02,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2026-02-28,2026-02,C-2014,Back Cove Bakery,Handyman,520.00,265.40,3.50,1
+2026-02-28,2026-02,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2026-02-28,2026-02,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2026-02-28,2026-02,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2026-02-28,2026-02,C-2019,Casco Coast Property Management,Commercial cleaning,2235.00,1089.15,32.25,7
+2026-02-28,2026-02,C-2020,Longfellow Street Rentals,Commercial cleaning,1500.00,734.25,21.75,5
+2026-02-28,2026-02,C-2021,Peaks Island Rentals,Commercial cleaning,700.00,338.00,10.00,2
+2026-02-28,2026-02,C-2023,Deering Center Family Dental,Commercial cleaning,1640.00,778.60,23.00,4
+2026-02-28,2026-02,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2026-02-28,2026-02,R-3002,Caleb Thibodeau,Handyman,945.00,519.40,7.00,2
+2026-02-28,2026-02,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2026-02-28,2026-02,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2026-02-28,2026-02,R-3004,Ruth Hendricks,Handyman,520.00,221.90,2.75,1
+2026-02-28,2026-02,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2026-02-28,2026-02,R-3005,Owen Castellano,Handyman,870.00,510.40,7.00,2
+2026-02-28,2026-02,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2026-02-28,2026-02,R-3006,Beatrix Lindqvist,Handyman,420.00,209.90,2.75,1
+2026-02-28,2026-02,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2026-02-28,2026-02,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2026-02-28,2026-02,R-3008,Noor Haddad,Handyman,495.00,218.90,2.75,1
+2026-02-28,2026-02,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2026-02-28,2026-02,R-3009,Theo Bergstrom,Handyman,560.00,270.20,3.50,1
+2026-02-28,2026-02,R-3009,Theo Bergstrom,Residential cleaning,1100.00,497.00,13.00,4
+2026-02-28,2026-02,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2026-02-28,2026-02,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2026-02-28,2026-02,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2026-03-31,2026-03,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,87425.00,42208.25,1248.75,5
+2026-03-31,2026-03,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2026-03-31,2026-03,C-2002,Stroudwater Commons Condominium Trust,Handyman,640.00,236.30,2.75,1
+2026-03-31,2026-03,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,34500.00,16647.50,492.50,5
+2026-03-31,2026-03,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2026-03-31,2026-03,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2026-03-31,2026-03,C-2006,Marginal Way Medical Suites,Commercial cleaning,15500.00,7478.75,221.25,5
+2026-03-31,2026-03,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2026-03-31,2026-03,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2026-03-31,2026-03,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2026-03-31,2026-03,C-2009,Ocean Avenue Pediatrics,Handyman,420.00,224.40,3.00,1
+2026-03-31,2026-03,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2026-03-31,2026-03,C-2012,Fore Street Bistro,Commercial cleaning,3200.00,1561.75,46.25,5
+2026-03-31,2026-03,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2026-03-31,2026-03,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2026-03-31,2026-03,C-2014,Back Cove Bakery,Handyman,1010.00,512.70,6.75,2
+2026-03-31,2026-03,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2026-03-31,2026-03,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2026-03-31,2026-03,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2026-03-31,2026-03,C-2019,Casco Coast Property Management,Commercial cleaning,2230.00,1081.20,32.00,7
+2026-03-31,2026-03,C-2020,Longfellow Street Rentals,Commercial cleaning,1415.00,692.10,20.50,5
+2026-03-31,2026-03,C-2021,Peaks Island Rentals,Commercial cleaning,330.00,160.45,4.75,1
+2026-03-31,2026-03,R-3001,Priya Natarajan,Handyman,385.00,234.70,3.25,1
+2026-03-31,2026-03,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2026-03-31,2026-03,R-3002,Caleb Thibodeau,Handyman,450.00,257.00,3.50,1
+2026-03-31,2026-03,R-3002,Caleb Thibodeau,Residential cleaning,720.00,316.50,8.25,3
+2026-03-31,2026-03,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2026-03-31,2026-03,R-3004,Ruth Hendricks,Handyman,1080.00,492.10,6.25,2
+2026-03-31,2026-03,R-3004,Ruth Hendricks,Residential cleaning,960.00,430.50,11.25,3
+2026-03-31,2026-03,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2026-03-31,2026-03,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2026-03-31,2026-03,R-3007,Samuel Agyemang,Handyman,520.00,265.40,3.50,1
+2026-03-31,2026-03,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2026-03-31,2026-03,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2026-03-31,2026-03,R-3009,Theo Bergstrom,Handyman,1525.00,763.00,10.00,3
+2026-03-31,2026-03,R-3009,Theo Bergstrom,Residential cleaning,1375.00,621.25,16.25,5
+2026-03-31,2026-03,R-3010,Imani Washington-Reyes,Handyman,495.00,262.40,3.50,1
+2026-03-31,2026-03,R-3010,Imani Washington-Reyes,Residential cleaning,885.00,401.25,10.50,3
+2026-03-31,2026-03,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2026-03-31,2026-03,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2026-04-30,2026-04,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,69940.00,33766.60,999.00,4
+2026-04-30,2026-04,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2026-04-30,2026-04,C-2002,Stroudwater Commons Condominium Trust,Handyman,1105.00,495.10,6.25,2
+2026-04-30,2026-04,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2026-04-30,2026-04,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2026-04-30,2026-04,C-2005,Baxter Woods Condominium Association,Commercial cleaning,19000.00,9168.75,271.25,5
+2026-04-30,2026-04,C-2006,Marginal Way Medical Suites,Commercial cleaning,12400.00,5983.00,177.00,4
+2026-04-30,2026-04,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,13500.00,6507.50,192.50,5
+2026-04-30,2026-04,C-2007,Brackett Street Lofts Owners Association,Handyman,905.00,500.10,6.75,2
+2026-04-30,2026-04,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2026-04-30,2026-04,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,4450.00,2154.25,63.75,5
+2026-04-30,2026-04,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2026-04-30,2026-04,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2026-04-30,2026-04,C-2013,Deering Oaks Dental Arts,Commercial cleaning,2400.00,1142.25,33.75,5
+2026-04-30,2026-04,C-2014,Back Cove Bakery,Commercial cleaning,2100.00,1014.00,30.00,5
+2026-04-30,2026-04,C-2014,Back Cove Bakery,Handyman,420.00,253.40,3.50,1
+2026-04-30,2026-04,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2026-04-30,2026-04,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2026-04-30,2026-04,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2026-04-30,2026-04,C-2019,Casco Coast Property Management,Commercial cleaning,2615.00,1274.85,37.75,8
+2026-04-30,2026-04,C-2020,Longfellow Street Rentals,Commercial cleaning,1860.00,911.40,27.00,6
+2026-04-30,2026-04,C-2021,Peaks Island Rentals,Commercial cleaning,990.00,481.35,14.25,3
+2026-04-30,2026-04,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2026-04-30,2026-04,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2026-04-30,2026-04,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2026-04-30,2026-04,R-3004,Ruth Hendricks,Handyman,420.00,267.90,3.75,1
+2026-04-30,2026-04,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2026-04-30,2026-04,R-3005,Owen Castellano,Handyman,640.00,250.80,3.00,1
+2026-04-30,2026-04,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2026-04-30,2026-04,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2026-04-30,2026-04,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2026-04-30,2026-04,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2026-04-30,2026-04,R-3009,Theo Bergstrom,Handyman,520.00,265.40,3.50,1
+2026-04-30,2026-04,R-3009,Theo Bergstrom,Residential cleaning,1100.00,497.00,13.00,4
+2026-04-30,2026-04,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2026-04-30,2026-04,R-3011,Walter Pelletier,Handyman,1010.00,469.20,6.00,2
+2026-04-30,2026-04,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2026-04-30,2026-04,R-3012,Yuki Tanabe-Morrill,Handyman,1505.00,746.10,9.75,3
+2026-04-30,2026-04,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1550.00,715.00,18.75,5
+2026-05-31,2026-05,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,69940.00,33766.60,999.00,4
+2026-05-31,2026-05,C-2001,Eastern Promenade Condominium Association,Handyman,560.00,241.20,3.00,1
+2026-05-31,2026-05,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2026-05-31,2026-05,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2026-05-31,2026-05,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2026-05-31,2026-05,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2026-05-31,2026-05,C-2005,Baxter Woods Condominium Association,Handyman,610.00,232.70,2.75,1
+2026-05-31,2026-05,C-2006,Marginal Way Medical Suites,Commercial cleaning,12400.00,5983.00,177.00,4
+2026-05-31,2026-05,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2026-05-31,2026-05,C-2008,Tidal Flats Coworking,Commercial cleaning,12000.00,5788.75,171.25,5
+2026-05-31,2026-05,C-2008,Tidal Flats Coworking,Handyman,450.00,228.00,3.00,1
+2026-05-31,2026-05,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2026-05-31,2026-05,C-2009,Ocean Avenue Pediatrics,Handyman,610.00,276.20,3.50,1
+2026-05-31,2026-05,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2026-05-31,2026-05,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2026-05-31,2026-05,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2026-05-31,2026-05,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2026-05-31,2026-05,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2026-05-31,2026-05,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2026-05-31,2026-05,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2026-05-31,2026-05,C-2019,Casco Coast Property Management,Commercial cleaning,4210.00,2043.90,60.50,13
+2026-05-31,2026-05,C-2020,Longfellow Street Rentals,Commercial cleaning,2175.00,1063.50,31.50,7
+2026-05-31,2026-05,C-2021,Peaks Island Rentals,Commercial cleaning,2060.00,996.90,29.50,6
+2026-05-31,2026-05,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2026-05-31,2026-05,R-3002,Caleb Thibodeau,Handyman,560.00,241.20,3.00,1
+2026-05-31,2026-05,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2026-05-31,2026-05,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2026-05-31,2026-05,R-3004,Ruth Hendricks,Handyman,915.00,472.30,6.25,2
+2026-05-31,2026-05,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2026-05-31,2026-05,R-3005,Owen Castellano,Handyman,495.00,262.40,3.50,1
+2026-05-31,2026-05,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2026-05-31,2026-05,R-3006,Beatrix Lindqvist,Handyman,420.00,224.40,3.00,1
+2026-05-31,2026-05,R-3006,Beatrix Lindqvist,Residential cleaning,1700.00,765.00,20.00,5
+2026-05-31,2026-05,R-3007,Samuel Agyemang,Handyman,1160.00,516.20,6.50,2
+2026-05-31,2026-05,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2026-05-31,2026-05,R-3008,Noor Haddad,Residential cleaning,840.00,373.50,9.75,3
+2026-05-31,2026-05,R-3009,Theo Bergstrom,Handyman,450.00,271.50,3.75,1
+2026-05-31,2026-05,R-3009,Theo Bergstrom,Residential cleaning,1100.00,497.00,13.00,4
+2026-05-31,2026-05,R-3010,Imani Washington-Reyes,Handyman,905.00,471.10,6.25,2
+2026-05-31,2026-05,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2026-05-31,2026-05,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2026-05-31,2026-05,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2026-06-30,2026-06,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,87425.00,42208.25,1248.75,5
+2026-06-30,2026-06,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2026-06-30,2026-06,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,34500.00,16647.50,492.50,5
+2026-06-30,2026-06,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2026-06-30,2026-06,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2026-06-30,2026-06,C-2006,Marginal Way Medical Suites,Commercial cleaning,15500.00,7478.75,221.25,5
+2026-06-30,2026-06,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2026-06-30,2026-06,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2026-06-30,2026-06,C-2008,Tidal Flats Coworking,Handyman,495.00,218.90,2.75,1
+2026-06-30,2026-06,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2026-06-30,2026-06,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2026-06-30,2026-06,C-2012,Fore Street Bistro,Commercial cleaning,3200.00,1561.75,46.25,5
+2026-06-30,2026-06,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2026-06-30,2026-06,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2026-06-30,2026-06,C-2014,Back Cove Bakery,Handyman,450.00,257.00,3.50,1
+2026-06-30,2026-06,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2026-06-30,2026-06,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2026-06-30,2026-06,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2026-06-30,2026-06,C-2019,Casco Coast Property Management,Commercial cleaning,4300.00,2094.00,62.00,13
+2026-06-30,2026-06,C-2020,Longfellow Street Rentals,Commercial cleaning,2540.00,1248.60,37.00,8
+2026-06-30,2026-06,C-2021,Peaks Island Rentals,Commercial cleaning,3220.00,1562.55,46.25,9
+2026-06-30,2026-06,R-3001,Priya Natarajan,Residential cleaning,1040.00,460.00,12.00,4
+2026-06-30,2026-06,R-3002,Caleb Thibodeau,Handyman,610.00,276.20,3.50,1
+2026-06-30,2026-06,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2026-06-30,2026-06,R-3003,Marguerite Okafor,Handyman,1440.00,752.80,10.00,3
+2026-06-30,2026-06,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2026-06-30,2026-06,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2026-06-30,2026-06,R-3005,Owen Castellano,Handyman,520.00,221.90,2.75,1
+2026-06-30,2026-06,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2026-06-30,2026-06,R-3006,Beatrix Lindqvist,Handyman,420.00,224.40,3.00,1
+2026-06-30,2026-06,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2026-06-30,2026-06,R-3007,Samuel Agyemang,Handyman,1200.00,550.00,7.00,2
+2026-06-30,2026-06,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2026-06-30,2026-06,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2026-06-30,2026-06,R-3009,Theo Bergstrom,Handyman,520.00,250.90,3.25,1
+2026-06-30,2026-06,R-3009,Theo Bergstrom,Residential cleaning,1375.00,621.25,16.25,5
+2026-06-30,2026-06,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2026-06-30,2026-06,R-3011,Walter Pelletier,Handyman,870.00,466.90,6.25,2
+2026-06-30,2026-06,R-3011,Walter Pelletier,Residential cleaning,690.00,315.00,8.25,3
+2026-06-30,2026-06,R-3012,Yuki Tanabe-Morrill,Handyman,610.00,290.70,3.75,1
+2026-06-30,2026-06,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2026-07-31,2026-07,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,69940.00,33766.60,999.00,4
+2026-07-31,2026-07,C-2001,Eastern Promenade Condominium Association,Handyman,520.00,250.90,3.25,1
+2026-07-31,2026-07,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2026-07-31,2026-07,C-2002,Stroudwater Commons Condominium Trust,Handyman,835.00,491.70,6.75,2
+2026-07-31,2026-07,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2026-07-31,2026-07,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2026-07-31,2026-07,C-2005,Baxter Woods Condominium Association,Commercial cleaning,19000.00,9168.75,271.25,5
+2026-07-31,2026-07,C-2006,Marginal Way Medical Suites,Commercial cleaning,12400.00,5983.00,177.00,4
+2026-07-31,2026-07,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,13500.00,6507.50,192.50,5
+2026-07-31,2026-07,C-2008,Tidal Flats Coworking,Commercial cleaning,12000.00,5788.75,171.25,5
+2026-07-31,2026-07,C-2008,Tidal Flats Coworking,Handyman,610.00,247.20,3.00,1
+2026-07-31,2026-07,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,4450.00,2154.25,63.75,5
+2026-07-31,2026-07,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2026-07-31,2026-07,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2026-07-31,2026-07,C-2013,Deering Oaks Dental Arts,Commercial cleaning,2400.00,1142.25,33.75,5
+2026-07-31,2026-07,C-2014,Back Cove Bakery,Commercial cleaning,2100.00,1014.00,30.00,5
+2026-07-31,2026-07,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2026-07-31,2026-07,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2026-07-31,2026-07,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2026-07-31,2026-07,C-2018,Riverton Family Chiropractic,Commercial cleaning,480.00,236.20,7.00,2
+2026-07-31,2026-07,C-2019,Casco Coast Property Management,Commercial cleaning,4965.00,2407.35,71.25,15
+2026-07-31,2026-07,C-2020,Longfellow Street Rentals,Commercial cleaning,2685.00,1316.40,39.00,9
+2026-07-31,2026-07,C-2021,Peaks Island Rentals,Commercial cleaning,3755.00,1824.20,54.00,11
+2026-07-31,2026-07,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2026-07-31,2026-07,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2026-07-31,2026-07,R-3003,Marguerite Okafor,Handyman,450.00,271.50,3.75,1
+2026-07-31,2026-07,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2026-07-31,2026-07,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2026-07-31,2026-07,R-3005,Owen Castellano,Residential cleaning,660.00,288.00,7.50,3
+2026-07-31,2026-07,R-3006,Beatrix Lindqvist,Handyman,640.00,294.30,3.75,1
+2026-07-31,2026-07,R-3006,Beatrix Lindqvist,Residential cleaning,1700.00,765.00,20.00,5
+2026-07-31,2026-07,R-3007,Samuel Agyemang,Handyman,980.00,509.10,6.75,2
+2026-07-31,2026-07,R-3007,Samuel Agyemang,Residential cleaning,750.00,343.50,9.00,3
+2026-07-31,2026-07,R-3008,Noor Haddad,Handyman,1325.00,768.00,10.50,3
+2026-07-31,2026-07,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2026-07-31,2026-07,R-3009,Theo Bergstrom,Handyman,1105.00,553.10,7.25,2
+2026-07-31,2026-07,R-3009,Theo Bergstrom,Residential cleaning,1100.00,497.00,13.00,4
+2026-07-31,2026-07,R-3010,Imani Washington-Reyes,Handyman,560.00,270.20,3.50,1
+2026-07-31,2026-07,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2026-07-31,2026-07,R-3011,Walter Pelletier,Handyman,495.00,233.40,3.00,1
+2026-07-31,2026-07,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2026-07-31,2026-07,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1550.00,715.00,18.75,5
+2026-08-31,2026-08,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,87425.00,42208.25,1248.75,5
+2026-08-31,2026-08,C-2001,Eastern Promenade Condominium Association,Handyman,610.00,247.20,3.00,1
+2026-08-31,2026-08,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,24500.00,11830.00,350.00,5
+2026-08-31,2026-08,C-2002,Stroudwater Commons Condominium Trust,Handyman,520.00,221.90,2.75,1
+2026-08-31,2026-08,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,34500.00,16647.50,492.50,5
+2026-08-31,2026-08,C-2004,Bramhall Square Offices,Commercial cleaning,17200.00,8314.00,246.00,4
+2026-08-31,2026-08,C-2005,Baxter Woods Condominium Association,Commercial cleaning,15200.00,7335.00,217.00,4
+2026-08-31,2026-08,C-2006,Marginal Way Medical Suites,Commercial cleaning,12400.00,5983.00,177.00,4
+2026-08-31,2026-08,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2026-08-31,2026-08,C-2007,Brackett Street Lofts Owners Association,Handyman,450.00,286.00,4.00,1
+2026-08-31,2026-08,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2026-08-31,2026-08,C-2008,Tidal Flats Coworking,Handyman,1055.00,518.10,6.75,2
+2026-08-31,2026-08,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,3560.00,1723.40,51.00,4
+2026-08-31,2026-08,C-2010,Pleasant Hill Veterinary,Commercial cleaning,2280.00,1090.95,32.25,3
+2026-08-31,2026-08,C-2011,The Wharf House Restaurant,Commercial cleaning,3600.00,1732.75,51.25,5
+2026-08-31,2026-08,C-2012,Fore Street Bistro,Commercial cleaning,2560.00,1249.40,37.00,4
+2026-08-31,2026-08,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2026-08-31,2026-08,C-2014,Back Cove Bakery,Commercial cleaning,1680.00,811.20,24.00,4
+2026-08-31,2026-08,C-2014,Back Cove Bakery,Handyman,0.00,773.50,9.25,3
+2026-08-31,2026-08,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2026-08-31,2026-08,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2026-08-31,2026-08,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2026-08-31,2026-08,C-2018,Riverton Family Chiropractic,Commercial cleaning,480.00,236.20,7.00,2
+2026-08-31,2026-08,C-2019,Casco Coast Property Management,Commercial cleaning,4500.00,2179.50,64.50,14
+2026-08-31,2026-08,C-2020,Longfellow Street Rentals,Commercial cleaning,2535.00,1240.65,36.75,8
+2026-08-31,2026-08,C-2021,Peaks Island Rentals,Commercial cleaning,2765.00,1342.85,39.75,8
+2026-08-31,2026-08,R-3001,Priya Natarajan,Handyman,880.00,439.10,5.75,2
+2026-08-31,2026-08,R-3001,Priya Natarajan,Residential cleaning,1225.00,545.00,14.50,5
+2026-08-31,2026-08,R-3002,Caleb Thibodeau,Handyman,420.00,238.90,3.25,1
+2026-08-31,2026-08,R-3002,Caleb Thibodeau,Residential cleaning,720.00,316.50,8.25,3
+2026-08-31,2026-08,R-3003,Marguerite Okafor,Residential cleaning,1500.00,670.00,17.50,5
+2026-08-31,2026-08,R-3004,Ruth Hendricks,Residential cleaning,640.00,287.00,7.50,2
+2026-08-31,2026-08,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2026-08-31,2026-08,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2026-08-31,2026-08,R-3007,Samuel Agyemang,Handyman,560.00,299.20,4.00,1
+2026-08-31,2026-08,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2026-08-31,2026-08,R-3008,Noor Haddad,Handyman,970.00,522.40,7.00,2
+2026-08-31,2026-08,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2026-08-31,2026-08,R-3009,Theo Bergstrom,Handyman,640.00,265.30,3.25,1
+2026-08-31,2026-08,R-3009,Theo Bergstrom,Residential cleaning,1100.00,497.00,13.00,4
+2026-08-31,2026-08,R-3010,Imani Washington-Reyes,Residential cleaning,885.00,401.25,10.50,3
+2026-08-31,2026-08,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
+2026-09-30,2026-09,C-2001,Eastern Promenade Condominium Association,Commercial cleaning,69940.00,33766.60,999.00,4
+2026-09-30,2026-09,C-2001,Eastern Promenade Condominium Association,Handyman,420.00,267.90,3.75,1
+2026-09-30,2026-09,C-2002,Stroudwater Commons Condominium Trust,Commercial cleaning,19600.00,9464.00,280.00,4
+2026-09-30,2026-09,C-2002,Stroudwater Commons Condominium Trust,Handyman,495.00,233.40,3.00,1
+2026-09-30,2026-09,C-2003,Westbrook Crossing Professional Park,Commercial cleaning,27600.00,13318.00,394.00,4
+2026-09-30,2026-09,C-2004,Bramhall Square Offices,Commercial cleaning,21500.00,10392.50,307.50,5
+2026-09-30,2026-09,C-2005,Baxter Woods Condominium Association,Commercial cleaning,19000.00,9168.75,271.25,5
+2026-09-30,2026-09,C-2005,Baxter Woods Condominium Association,Handyman,610.00,247.20,3.00,1
+2026-09-30,2026-09,C-2006,Marginal Way Medical Suites,Commercial cleaning,15500.00,7478.75,221.25,5
+2026-09-30,2026-09,C-2007,Brackett Street Lofts Owners Association,Commercial cleaning,10800.00,5206.00,154.00,4
+2026-09-30,2026-09,C-2007,Brackett Street Lofts Owners Association,Handyman,560.00,284.70,3.75,1
+2026-09-30,2026-09,C-2008,Tidal Flats Coworking,Commercial cleaning,9600.00,4631.00,137.00,4
+2026-09-30,2026-09,C-2008,Tidal Flats Coworking,Handyman,450.00,271.50,3.75,1
+2026-09-30,2026-09,C-2009,Ocean Avenue Pediatrics,Commercial cleaning,4450.00,2154.25,63.75,5
+2026-09-30,2026-09,C-2010,Pleasant Hill Veterinary,Commercial cleaning,3040.00,1454.60,43.00,4
+2026-09-30,2026-09,C-2011,The Wharf House Restaurant,Commercial cleaning,2880.00,1386.20,41.00,4
+2026-09-30,2026-09,C-2012,Fore Street Bistro,Commercial cleaning,3200.00,1561.75,46.25,5
+2026-09-30,2026-09,C-2013,Deering Oaks Dental Arts,Commercial cleaning,1920.00,913.80,27.00,4
+2026-09-30,2026-09,C-2014,Back Cove Bakery,Commercial cleaning,2100.00,1014.00,30.00,5
+2026-09-30,2026-09,C-2015,Old Port Dental,Commercial cleaning,640.00,304.60,9.00,2
+2026-09-30,2026-09,C-2016,Harborview Orthodontics,Commercial cleaning,1150.00,557.50,16.50,2
+2026-09-30,2026-09,C-2017,Spring Street Studios,Commercial cleaning,560.00,270.40,8.00,2
+2026-09-30,2026-09,C-2018,Riverton Family Chiropractic,Commercial cleaning,480.00,236.20,7.00,2
+2026-09-30,2026-09,C-2019,Casco Coast Property Management,Commercial cleaning,3330.00,1621.20,48.00,11
+2026-09-30,2026-09,C-2020,Longfellow Street Rentals,Commercial cleaning,2130.00,1038.45,30.75,7
+2026-09-30,2026-09,C-2021,Peaks Island Rentals,Commercial cleaning,2150.00,1047.00,31.00,6
+2026-09-30,2026-09,R-3001,Priya Natarajan,Handyman,560.00,270.20,3.50,1
+2026-09-30,2026-09,R-3001,Priya Natarajan,Residential cleaning,1300.00,575.00,15.00,5
+2026-09-30,2026-09,R-3002,Caleb Thibodeau,Residential cleaning,480.00,211.00,5.50,2
+2026-09-30,2026-09,R-3003,Marguerite Okafor,Handyman,1160.00,545.20,7.00,2
+2026-09-30,2026-09,R-3003,Marguerite Okafor,Residential cleaning,1200.00,536.00,14.00,4
+2026-09-30,2026-09,R-3004,Ruth Hendricks,Handyman,970.00,507.90,6.75,2
+2026-09-30,2026-09,R-3004,Ruth Hendricks,Residential cleaning,960.00,430.50,11.25,3
+2026-09-30,2026-09,R-3005,Owen Castellano,Residential cleaning,440.00,192.00,5.00,2
+2026-09-30,2026-09,R-3006,Beatrix Lindqvist,Handyman,495.00,247.90,3.25,1
+2026-09-30,2026-09,R-3006,Beatrix Lindqvist,Residential cleaning,1360.00,612.00,16.00,4
+2026-09-30,2026-09,R-3007,Samuel Agyemang,Residential cleaning,500.00,229.00,6.00,2
+2026-09-30,2026-09,R-3008,Noor Haddad,Handyman,420.00,253.40,3.50,1
+2026-09-30,2026-09,R-3008,Noor Haddad,Residential cleaning,560.00,249.00,6.50,2
+2026-09-30,2026-09,R-3009,Theo Bergstrom,Handyman,385.00,234.70,3.25,1
+2026-09-30,2026-09,R-3009,Theo Bergstrom,Residential cleaning,1375.00,621.25,16.25,5
+2026-09-30,2026-09,R-3010,Imani Washington-Reyes,Handyman,610.00,290.70,3.75,1
+2026-09-30,2026-09,R-3010,Imani Washington-Reyes,Residential cleaning,590.00,267.50,7.00,2
+2026-09-30,2026-09,R-3011,Walter Pelletier,Residential cleaning,460.00,210.00,5.50,2
+2026-09-30,2026-09,R-3012,Yuki Tanabe-Morrill,Residential cleaning,1240.00,572.00,15.00,4
