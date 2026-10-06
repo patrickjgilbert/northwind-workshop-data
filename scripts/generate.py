@@ -707,10 +707,15 @@ def autosize(ws, maxw=48):
 
 
 # ----------------------------------------------------------------- main
+# Hand-written files the generator must never delete: the folder READMEs and
+# the context files each exercise prompt tells Claude to reference.
+KEEP = {"README.md", "rules.md", "brand-guidelines.md", "northwind-company-profile.md"}
+
+
 def clean_dir(d):
     if os.path.isdir(d):
         for name in os.listdir(d):
-            if name == "README.md":
+            if name in KEEP:
                 continue
             p = os.path.join(d, name)
             if os.path.isdir(p):
@@ -962,7 +967,7 @@ def main():
     write_receipt_png(os.path.join(D01, "receipt.png"), "DEERING HARDWARE & SUPPLY", "1012 Forest Ave, Portland ME",
                       datetime(2026, 9, 14, 15, 18), [("Door closer, comm.", 38.99), ("Weatherstrip 17ft", 6.49), ("Tax", 2.44)], 47.92,
                       ["Paid: Visa ****2210", "Return within 30 days", "Thank you for shopping local"])
-    n = len(os.listdir(D01)) - (1 if os.path.exists(os.path.join(D01, "README.md")) else 0)
+    n = len([f for f in os.listdir(D01) if f not in KEEP])
     print("  01-invoices-inbox: %d files (%d invoice PDFs incl. 1 duplicate, 1 blank scan, 2 receipts, 1 note)" % (n, len(INBOX_INVOICES) + 1))
     print("  PLANTED  duplicate: CB-2211 $1,184.60 as '%s' and '%s' (identical bytes)" % DUPLICATE_FILE)
     print("  PLANTED  no PO: Tidewater Plumbing TP-0893 $3,250.00 ('plumber invoice.pdf')")

@@ -14,12 +14,14 @@ This folder is Northwind's third quarter of 2026 (July through September) as it 
 | `hubspot-deals.xlsx` | the sales pipeline, 15 deals, amount is monthly |
 | `jobs-export.csv` | every job from the scheduling system (Routeboard) in Q3, about 450 rows, with the invoice it was billed on (blank when it was never invoiced) |
 
-Everything in here reconciles except six things. Those six are below.
+Everything in here reconciles except six planted things, plus two that depend on how you answer Claude's questions. All of them are below.
+
+`rules.md` is the context file for this exercise. See "The context file" below.
 
 ## Prompt 1
 
 ```
-This folder holds exports from five places: our Gmail (saved as PDFs), our Slack ops channel, the transcript of our September ops meeting, our QuickBooks invoices and bills for Q3, our HubSpot deals, and the jobs export from our scheduling system. Reconcile what we promised customers in Q3 2026 (July through September) against what we actually invoiced them. Build northwind-q3-reconciliation.xlsx with three tabs: Summary (revenue invoiced, jobs completed, promised but not invoiced, invoiced but not promised), By Customer (every customer with jobs, invoices, and the difference), and Exceptions (one row per mismatch with the dollars at stake and the source file and line that proves it). Use real formulas, not pasted values. Then tell me in plain English the four things you would fix first, with the dollars attached. Build it in one pass and stop. Do not test it, I will open it myself.
+This folder holds exports from five places: our Gmail (saved as PDFs), our Slack ops channel, the transcript of our September ops meeting, our QuickBooks invoices and bills for Q3, our HubSpot deals, and the jobs export from our scheduling system. Reference rules.md and follow those rules exactly as written. Reconcile what we promised customers in Q3 2026 against what we actually invoiced them. Build northwind-q3-reconciliation.xlsx with three tabs: Summary, By Customer, and Exceptions (one row per mismatch, with the dollars at stake and the source that proves it). Then tell me in plain English the four things you would fix first, with the dollars attached. Build it in one pass and stop. Do not test it, I will open it myself.
 ```
 
 ## Prompt 2
@@ -28,9 +30,40 @@ This folder holds exports from five places: our Gmail (saved as PDFs), our Slack
 Now make it readable without changing a single number: frozen headers, autosized columns, currency formats, conditional formatting on the Exceptions tab so anything over $1,000 is red, a dropdown on the Summary tab that filters By Customer, and in-cell sparklines of invoiced amount by month per customer. One accent color plus grey. Save it over the same file. One pass, then stop.
 ```
 
+## The context file
+
+`rules.md` is how Northwind works with data, on one page. Dana's version is two sentences: use a calculator to compute any math, do not guess; if any data is missing from an equation, or if anything is unclear, flag it before you move forward. The file turns that into rules Claude can follow: every number comes from a formula or code, every number carries its source, Q3 means July 1 to September 30, customer names match QuickBooks, what counts as a promise, and what the workbook must look like.
+
+The prompt no longer spells out the workbook rules or the definitions. They live in `rules.md`, so they are the same every quarter and nobody has to remember to type them. "Reference rules.md and follow those rules exactly as written" tells Claude to read the file first and to let it overrule the prompt where the two disagree.
+
+They do disagree in one place, on purpose. The prompt says "build it in one pass and stop". The rules say that if a number is missing or a source can be read two ways, stop and ask before building anything. A careful run follows the rules: it reads everything, comes back with a short list of questions, and waits. That is the behavior you want from a new hire with your books, and it is the teaching point. Answer the questions in the chat (the answers are below) and Claude builds the workbook.
+
+## If Claude stops to ask
+
+These are the questions a careful run is likely to ask, and the answers to give. Type the answer as written.
+
+| Likely question | Why it is a real question | Answer to give |
+|---|---|---|
+| Does Munjoy Hill Senior Residence count from July, or from August? | HubSpot shows the deal Closed Won on July 8 at $2,400 a month, and Lorraine's July 10 email asks for a first visit the week of July 20. A run can defend July to September ($7,200) or August and September only ($4,800). | "Count Munjoy Hill from July: $7,200. July is the start date in the signed deal." |
+| Is Pleasant Hill Veterinary a flat monthly price or per visit? | HubSpot shows $3,290 in the "Amount (monthly)" column. QuickBooks bills per visit at $760: $2,280 for August (3 visits from the August 17 start) and $3,040 for September (4 visits). If the contract is flat, September is $250 under. | "Treat Pleasant Hill Vet as flat monthly per HubSpot: $3,290 a month. August was a partial first month, leave it as invoiced. September is $250 under." |
+| What do we charge for the Tanabe-Morrill deck railing? | Slack (Sep 3, 09:40) and the transcript (00:02:49) say Rafael did the job in 4 hours against a 2.5-hour quote. There is no job in `jobs-export.csv`, no invoice and no price anywhere. | "Leave Tanabe-Morrill as unpriced, flag only. Put it on Exceptions with $0 and the note 'unpriced, flag only'. Do not estimate a price." |
+| Do open deals count as promises (Lakeshore, Ledgewood, Westbrook Crossing annex)? | They have dollar amounts in HubSpot. | "No. Only Closed Won deals." |
+| Is the Routeboard overbilling (24 seats, 19 people, $95 a month) in scope? | The transcript at 00:05:32 raises it. | "No. Vendor bills are in scope only for duplicate payments." |
+| Are the 7 cancelled jobs exceptions? | They show a price and no invoice. | "No. They are customer-side cancellations, not billed on purpose." |
+
+With these answers a run should land on the six planted exceptions below plus two from the stop-and-ask round: Pleasant Hill Veterinary ($250) and Tanabe-Morrill (unpriced, $0). Total dollars at stake **$12,154.60**. If a run asks nothing and builds straight away, check which way it went on Munjoy Hill and Pleasant Hill; that is the conversation to have about why the rules say to stop.
+
+## Make it a skill
+
+When the workbook is done, paste this in the same session:
+
+```
+Wait. I might have to do this again. Turn what we just did in this session into a skill called quarterly-reconciliation, so next time it runs from one line. Put everything from rules.md inside the skill so it works in any folder. Keep it to one SKILL.md file with the steps and the rules, no scripts. Then read it back to me in five lines.
+```
+
 ## What's planted
 
-Six exceptions. Every one is provable from a named file and line. Total dollars at stake: **$11,904.60** (customer side $10,720.00, vendor side $1,184.60).
+Six exceptions. Every one is provable from a named file and line. Total dollars at stake: **$11,904.60** (customer side $10,720.00, vendor side $1,184.60). With the stop-and-ask answers above, Pleasant Hill Veterinary ($250.00) and Tanabe-Morrill (unpriced, flag only) are added, for **$12,154.60**.
 
 | # | Exception | Dollars | Proof |
 |---|---|---|---|

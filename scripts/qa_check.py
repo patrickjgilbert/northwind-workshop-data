@@ -196,7 +196,7 @@ check(len(bc_row) == 1 and bc_row[0][5] == 0 and bc_row[0][8] == 3, "dashboard s
 
 # ------------------------------------------------------------ 01 inbox
 print("\n[01-invoices-inbox]")
-files = sorted(f for f in os.listdir(D01) if f != "README.md")
+files = sorted(f for f in os.listdir(D01) if f not in ("README.md", "rules.md"))
 check(28 <= len(files) <= 34, "about 30 files in the inbox (%d)" % len(files))
 for (vendor, number, d, total, po, fn, lines) in INBOX_INVOICES:
     txt = pdftotext(os.path.join(D01, fn))
@@ -237,15 +237,60 @@ for f in pages:
     t = pdftotext(os.path.join(D04, f))
     check(".example" in t and "Saved Sep" in t, "%s has a fake URL header and saved date" % f[:50])
 
+# ------------------------------------------------------------ context files
+print("\n[context files]")
+CONTEXT_FILES = [os.path.join(D01, "rules.md"), os.path.join(D02, "rules.md"),
+                 os.path.join(D03, "brand-guidelines.md"), os.path.join(D04, "northwind-company-profile.md")]
+ctx = {}
+for p in CONTEXT_FILES:
+    ok = os.path.isfile(p) and os.path.getsize(p) > 200
+    check(ok, "%s exists and is non-empty" % os.path.relpath(p, ROOT))
+    ctx[p] = open(p).read() if ok else ""
+r01, r02, brand, profile = [ctx[p] for p in CONTEXT_FILES]
+
+# every vendor actually printed in an invoice PDF appears in the rules.md category map (a table row)
+map_rows = [l for l in r01.splitlines() if l.startswith("| ") and "`" in l]
+pdf_vendors = set()
+for f in sorted(os.listdir(D01)):
+    if f.endswith(".pdf"):
+        lines = [l.strip() for l in pdftotext(os.path.join(D01, f)).splitlines() if l.strip()]
+        if lines:
+            pdf_vendors.add(re.split(r"\s{2,}", lines[0])[0])
+check(pdf_vendors == set(VENDORS), "vendors read from the invoice PDFs are the 9 known vendors (%d)" % len(pdf_vendors))
+missing = [v for v in sorted(pdf_vendors) if not any(("| " + v + " |") in l for l in map_rows)]
+check(missing == [], "every invoice vendor is in the 01 rules.md category map (%s)" % (missing or "all 9"))
+for need in ("_receipts/", "_review/", "Needs a human", "date,vendor,category,invoice_number,po_number,amount,new_path", "YYYY-MM-DD_vendor-slug_invoice-number.pdf"):
+    check(need in r01, "01 rules.md specifies %s" % need)
+for need in ("calculator", "July 1 to September 30, 2026", "stop", "Closed Won", "duplicate payments", "formulas"):
+    check(need in r02, "02 rules.md covers '%s'" % need)
+hexes = set(re.findall(r"#[0-9A-Fa-f]{6}\b", brand))
+check(len(hexes) >= 6, "brand-guidelines.md has hex color codes (%d)" % len(hexes))
+for need in ("Fraunces", "Source Sans 3", "IBM Plex Mono", "pie or donut"):
+    check(need in brand, "brand-guidelines.md names %s" % need)
+check("6,200" not in profile and "6200" not in profile, "company profile does NOT contain the $6,200 floor")
+for need in ("Dana Whitfield", "Eastern Promenade Condominium Association", "$400 per missed window", "Greenline Lawn & Snow", "60-day pilot"):
+    check(need in profile, "company profile states '%s'" % need)
+dashes = [os.path.relpath(p, ROOT) for p in CONTEXT_FILES + [os.path.join(ROOT, d, "README.md") for d in ("", "01-invoices-inbox", "02-sources", "03-dashboard", "04-prospect")]
+          if os.path.exists(p) and ("\u2014" in open(p).read() or "\u2013" in open(p).read())]
+check(dashes == [], "no em or en dashes in the context files or READMEs (%s)" % (dashes or "clean"))
+SKILLS = {"01-invoices-inbox": ("invoice-inbox", "rules.md"), "02-sources": ("quarterly-reconciliation", "rules.md"),
+          "03-dashboard": ("monthly-dashboard", "brand-guidelines.md"), "04-prospect": ("call-prep", "northwind-company-profile.md")}
+for d, (name, cf) in SKILLS.items():
+    rd = open(os.path.join(ROOT, d, "README.md")).read()
+    check(("into a skill called %s," % name) in rd and ("Put everything from %s inside the skill" % cf) in rd and ("Reference " + cf) in rd.replace("reference " + cf, "Reference " + cf),
+          "%s/README.md has the skills prompt (%s, %s) and a prompt that references %s" % (d, name, cf, cf))
+
 # ------------------------------------------------------------ hygiene
 print("\n[hygiene]")
 # stored reversed so a plain grep of the repo for these terms finds nothing, including this file
 FORBIDDEN = [t[::-1] for t in ["tniopeslup", "opy", "ramhcrok", "rehtael robrah", "redlac", "nevah", "htraeh", "xofmialc", "sdpi"]]
 hits = []
+scanned = set()
 for dirpath, dirnames, filenames in os.walk(ROOT):
     dirnames[:] = [d for d in dirnames if d not in (".git", "__pycache__")]
     for fn in filenames:
         p = os.path.join(dirpath, fn)
+        scanned.add(p)
         blobs = [open(p, "rb").read().lower()]
         if fn.lower().endswith(".pdf"):
             blobs.append(pdftotext(p).lower().encode())
@@ -256,6 +301,7 @@ for dirpath, dirnames, filenames in os.walk(ROOT):
             if any(term.encode() in b for b in blobs):
                 hits.append((os.path.relpath(p, ROOT), term))
 check(hits == [], "no forbidden terms anywhere (%s)" % (hits if hits else "clean"))
+check(all(p in scanned for p in CONTEXT_FILES), "forbidden-term scan covered all 4 context files")
 
 for xl in (os.path.join(D02, "hubspot-deals.xlsx"), os.path.join(D03, "northwind-revenue-30mo.xlsx")):
     with zipfile.ZipFile(xl) as z:
